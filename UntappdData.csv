@@ -1,0 +1,1019 @@
+Person,Beer,Brewery,Style,ABV,IBU,Origin Country,Origin City,Rating,Date
+Dom,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,3.5,10/2/14 18:47
+Dom,Rounder Belgian Style Pale,Blue Moon Brewing Company,Belgian Pale Ale,5.6,22,United States,Denver,4,10/4/14 14:12
+Dom,Samuel Adams Harvest Saison,Boston Beer Company (Samuel Adams),Saison / Farmhouse Ale,6,25,United States,Boston,3.5,10/9/14 22:11
+Dom,Samuel Adams OctoberFest,Boston Beer Company (Samuel Adams),Oktoberfest/Festbier/MÌ_rzen,5.3,16,United States,Boston,4.5,10/9/14 22:46
+Dom,Rounder Belgian Style Pale,Blue Moon Brewing Company,Belgian Pale Ale,5.6,22,United States,Denver,4,10/18/14 20:45
+Dom,Samuel Adams Winter Lager,Boston Beer Company (Samuel Adams),Winter Lager,5.6,22,United States,Boston,3.5,10/31/14 14:17
+Dom,Samuel Adams White Christmas,Boston Beer Company (Samuel Adams),Witbier,5.8,8,United States,Boston,2,11/1/14 17:18
+Dom,Baldi,ÌÉrskÌügssandur,Dark Ale,0,0,Iceland,,4,11/8/14 14:19
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,11/8/14 17:52
+Dom,Shake Chocolate Porter,Boulder Beer Company,American Porter,5.9,39,United States,Boulder,4,11/10/14 23:49
+Dom,Nutcracker Ale,Boulevard Brewing Co.,Winter Warmer,7.8,38,United States,Kansas City,4.5,11/11/14 0:25
+Dom,Obsidian Stout,Deschutes Brewery,American Stout,6.4,55,United States,Bend,3,11/11/14 23:06
+Dom,Celebration Ale,Sierra Nevada Brewing Co.,American IPA,6.8,65,United States,Chico,4.5,11/11/14 23:08
+Dom,Snowsuit Winter Abbey,Lucky Bucket Brewing Company,Winter Ale,5.3,8,United States,La Vista,2.5,11/12/14 17:28
+Dom,He'Brew Messiah Nut Brown Ale,x,American Brown Ale,5.2,0,United States,Clifton Park,3.5,11/13/14 19:30
+Dom,Guinness Draught,Guinness,Irish Dry Stout,4.3,45,Ireland,Dublin 8,2.5,11/15/14 17:00
+Dom,Miller High Life,Miller Brewing Company,North American Adjunct Lager,5,0,United States,Milwaukee,3,11/15/14 23:07
+Dom,Pale Ale,Sierra Nevada Brewing Co.,American Pale Ale,5.6,37,United States,Chico,2.5,11/16/14 12:45
+Dom,Oktoberfest,Left Hand Brewing Company,Oktoberfest/Festbier/MÌ_rzen,6.6,24,United States,Longmont,3.5,11/17/14 21:08
+Dom,Shockolate Wheat,Shock Top Brewing Co.,Winter Ale,4.3,0,United States,St Louis,4.5,11/19/14 23:22
+Dom,Belgian White,Shock Top Brewing Co.,Witbier,5.2,0,United States,St Louis,1.5,11/20/14 21:57
+Dom,312 Urban Wheat Ale,Goose Island Beer Co.,American Pale Wheat Ale,4.2,18,United States,Chicago,3,11/21/14 23:14
+Dom,Green Line Pale Ale,Goose Island Beer Co.,American Pale Ale,5.4,30,United States,Chicago,3.5,11/22/14 21:46
+Dom,Goose IPA,Goose Island Beer Co.,English IPA,5.9,55,United States,Chicago,3,11/24/14 20:56
+Dom,HofbrÌ_u MÌ_nchner Weisse / MÌ_nchner Kindl / Hefe Weizen,Staatliches HofbrÌ_uhaus MÌ_nchen,Hefeweizen,5.1,12,Germany,MÌ_nchen,1.5,11/27/14 14:10
+Dom,Honeycrisp Apple Wheat,Shock Top Brewing Co.,Fruit Beer,5.2,0,United States,St Louis,4.5,11/27/14 16:02
+Dom,Coffee Stout,Schlafly - The Saint Louis Brewery,Stout,5.7,30,United States,Saint Louis,3,11/27/14 20:23
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,1.5,11/28/14 15:26
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,11/28/14 22:14
+Dom,Red Stripe,Desnoes & Geddes,North American Adjunct Lager,4.7,0,Jamaica,Kingston,1,11/29/14 0:11
+Dom,Natural Light,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,1,11/29/14 2:04
+Dom,Berry Weiss,Jacob Leinenkugel Brewing Company,Kristallweizen ,4.7,14,United States,Chippewa Falls,1.5,12/2/14 19:41
+Dom,Heartland Wheat,Lucky Bucket Brewing Company,American Pale Wheat Ale,4.8,15,United States,La Vista,4,12/3/14 18:25
+Dom,Dirty Blonde,Twin Peaks Restaurants,Hefeweizen,5,15,United States,Dallas,3,12/4/14 20:03
+Dom,Naughty (Knotty) Brunette,Twin Peaks Restaurants,American Amber / Red Ale,5.3,27,United States,Dallas,1.5,12/4/14 20:04
+Dom,Ten Hills Pale Ale,Goose Island Beer Co.,American Pale Ale,6.2,48,United States,Chicago,3.5,12/5/14 13:58
+Dom,Heineken,Heineken,Euro Lager,5,19,Netherlands,Zoeterwoude,2,12/5/14 21:55
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,1,12/6/14 21:27
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,1,12/7/14 0:22
+Dom,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,2.5,12/7/14 16:22
+Dom,Snowdrift Vanilla Porter,Jacob Leinenkugel Brewing Company,American Porter,6,16,United States,Chippewa Falls,1.5,12/8/14 0:11
+Dom,Goose IPA,Goose Island Beer Co.,English IPA,5.9,55,United States,Chicago,2,12/8/14 18:27
+Dom,Hibernation Ale,Great Divide Brewing Company,Old Ale,8.7,0,United States,Denver,3.5,12/9/14 23:19
+Dom,Hibernation Ale,Great Divide Brewing Company,Old Ale,8.7,0,United States,Denver,4.5,12/10/14 0:35
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,12/10/14 20:13
+Dom,Winter Axis Festive Ale,Empyrean Brewing Co.,Winter Warmer,6,41,United States,Lincoln,3,12/10/14 22:54
+Dom,Honeycrisp Apple Wheat,Shock Top Brewing Co.,Fruit Beer,5.2,0,United States,St Louis,4,12/12/14 19:27
+Dom,Budweiser,Anheuser-Busch,North American Adjunct Lager,5,0,United States,St. Louis,2,12/12/14 22:29
+Dom,Oak Aged Yeti,Great Divide Brewing Company,American Imperial / Double Stout,9.5,75,United States,Denver,3.5,12/13/14 0:09
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,12/13/14 14:34
+Dom,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4.5,12/13/14 15:16
+Dom,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4.5,12/13/14 21:02
+Dom,Arrogant Bastard Ale,Stone Brewing Co.,American Strong Ale,7.2,100,United States,Escondido,2.5,12/15/14 20:34
+Dom,90 Shilling,Odell Brewing Co.,Scotch Ale / Wee Heavy,5.3,27,United States,Fort Collins,3.5,12/16/14 21:45
+Dom,IPA,Odell Brewing Co.,American IPA,7,60,United States,Fort Collins,4.5,12/16/14 22:11
+Dom,Sapporo Premium Beer,Sapporo Breweries,Japanese Rice Lager,5,4,Japan,Shibuya-ku,3.5,12/17/14 21:52
+Dom,IPA,Lagunitas Brewing Company,American IPA,6.2,46,United States,Petaluma,3.5,12/18/14 21:11
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1,12/18/14 23:22
+Dom,Foster's Lager,Foster's Group,North American Adjunct Lager,4.9,0,Australia,Abbotsford,2,12/20/14 13:47
+Dom,KC Pils,Boulevard Brewing Co.,Pilsner,4.8,16,United States,Kansas City,4,12/20/14 15:52
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1,12/20/14 19:13
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,12/20/14 22:24
+Dom,Winter Wheat,Anchor Brewing Company,Winter Ale,7,0,United States,San Francisco,4,12/21/14 15:14
+Dom,Tasmanian IPA (TIPA),Schlafly - The Saint Louis Brewery,American IPA,7.2,60,United States,Saint Louis,2,12/22/14 19:45
+Dom,Belgian Blond,Martin City Brewing Company,Belgian Blonde / Golden,6.5,30,United States,Kansas City,1,12/22/14 20:12
+Dom,Castaway IPA,Kona Brewing Company,American IPA,6,65,United States,Kailua-Kona,2.5,12/24/14 23:32
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2.5,12/27/14 16:25
+Dom,Bearwalker Maple Brown,Jackalope Brewing Company,American Brown Ale,5.1,32,United States,Nashville,4,12/29/14 20:54
+Dom,Crisp Apple,Angry Orchard Cider Company,Cider,5,0,United States,Cincinnati,3.5,12/29/14 21:00
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,12/30/14 20:46
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,2,1/1/15 11:54
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,1/2/15 15:06
+Dom,Ichiban (Ichiban Shibori),Kirin Brewery Company,Pale Lager,4.95,0,Japan,Nakano-ku,1,1/2/15 17:55
+Dom,Crown Town Ale,Boulevard Brewing Co.,Golden Ale,6.2,25,United States,Kansas City,3.5,1/3/15 18:23
+Dom,Budweiser Select 55,Anheuser-Busch,American Light Lager,2.4,0,United States,St. Louis,0.5,1/3/15 23:11
+Dom,Winterfest,Free State Brewing Co.,American IPA,6.5,60,United States,Lawrence,3,1/4/15 22:22
+Dom,Red Chair NWPA,Deschutes Brewery,American Pale Ale,6.2,60,United States,Bend,2.5,1/6/15 21:16
+Dom,Spotted Cow,New Glarus Brewing Company,Saison / Farmhouse Ale,5.1,0,United States,New Glarus,4.5,1/7/15 19:30
+Dom,Two Women Lager,New Glarus Brewing Company,Golden Lager,5,0,United States,New Glarus,2.5,1/7/15 19:34
+Dom,Fat Squirrel Ale,New Glarus Brewing Company,American Brown Ale,5.8,0,United States,New Glarus,4.5,1/7/15 19:42
+Dom,Kentucky Bourbon Barrel Ale,Alltech Lexington Brewing & Distilling Co.,American Strong Ale,8.19,15,United States,Lexington,4.5,1/7/15 19:49
+Dom,Kentucky Pumpkin Barrel Ale,Alltech Lexington Brewing & Distilling Co.,Pumpkin / Yam Beer,10,0,United States,Lexington,4.5,1/7/15 20:06
+Dom,Illusive Traveler Grapefruit Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,0,United States,Burlington,4,1/7/15 20:41
+Dom,Time Traveler Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,7,United States,Burlington,4,1/7/15 21:28
+Dom,Red Rambler,Peace Tree Brewing Company,American Amber / Red Ale,5.8,35,United States,Knoxville,1,1/7/15 21:37
+Dom,Ruthie,Exile Brewing Company,Golden Lager,5.2,18,United States,Des Moines,3.5,1/8/15 19:27
+Dom,Dos Equis Special Lager,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.45,0,Mexico,Monterrey,2,1/8/15 19:40
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,1/8/15 20:00
+Dom,Miller High Life,Miller Brewing Company,North American Adjunct Lager,5,0,United States,Milwaukee,2.5,1/9/15 23:16
+Dom,Heineken,Heineken,Euro Lager,5,19,Netherlands,Zoeterwoude,2,1/10/15 22:41
+Dom,Grapefruit Harvest IPA,Abita Brewing Company,American IPA,6,40,United States,Abita Springs,2.5,1/10/15 23:06
+Dom,Original Sin Hard Cider,Original Sin ,Cider,6.7,0,United States,New York,2,1/11/15 16:14
+Dom,Guinness Blonde American Lager,Guinness,Blonde Lager,5,21,Ireland,Dublin 8,4,1/11/15 22:21
+Dom,Jug Thumper,Lucky Bucket Brewing Company,American Brown Ale,5.5,21,United States,La Vista,4,1/13/15 20:40
+Dom,Pre-Prohibition Style Lager,Lucky Bucket Brewing Company,American Amber / Red Lager,4.5,18,United States,La Vista,2.5,1/13/15 21:58
+Dom,Pre-Prohibition Style Lager,Lucky Bucket Brewing Company,American Amber / Red Lager,4.5,18,United States,La Vista,2.5,1/13/15 21:59
+Dom,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4.5,1/14/15 21:41
+Dom,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4.5,1/14/15 22:10
+Dom,Warsteiner Premium Verum / German Pilsener,Warsteiner,German Pilsner,4.8,27,Germany,Warstein,2.5,1/15/15 18:35
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,3.5,1/16/15 17:58
+Dom,312 Urban Wheat Ale,Goose Island Beer Co.,American Pale Wheat Ale,4.2,18,United States,Chicago,3.5,1/16/15 18:12
+Dom,Milk Stout,Left Hand Brewing Company,Milk / Sweet Stout,6,25,United States,Longmont,3,1/16/15 20:26
+Dom,Big Wave Golden Ale,Kona Brewing Company,Golden Ale,4.4,5,United States,Kailua-Kona,2.5,1/16/15 20:49
+Dom,Rolling Rock Amber Lager,Latrobe Brewing Co.,American Amber / Red Lager,4,0,United States,Saint Louis,1,1/16/15 22:20
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,1/16/15 23:02
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,1/18/15 13:25
+Dom,90 Shilling,Odell Brewing Co.,Scotch Ale / Wee Heavy,5.3,27,United States,Fort Collins,3.5,1/20/15 22:15
+Dom,5 Barrel Pale Ale,Odell Brewing Co.,English Pale Ale,5.2,36,United States,Fort Collins,1.5,1/20/15 22:16
+Dom,90 Shilling,Odell Brewing Co.,Scotch Ale / Wee Heavy,5.3,27,United States,Fort Collins,2.5,1/20/15 22:54
+Dom,Jug Thumper,Lucky Bucket Brewing Company,American Brown Ale,5.5,21,United States,La Vista,4,1/21/15 23:07
+Dom,Hopluia,Spilker Ales,Belgian Pale Ale,6.5,0,United States,Cortland,3,1/21/15 23:44
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,1/22/15 22:50
+Dom,Asahi Super Dry,Asahi Breweries,Japanese Rice Lager,5,16,Japan,Sumida-ku,2,1/24/15 14:43
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,4,1/27/15 19:44
+Dom,Mama's Little Yella Pils,Oskar Blues Brewery,Czech Pilsener,5.3,35,United States,Longmont,3.5,1/27/15 22:36
+Dom,Old Chub Nitro,Oskar Blues Brewery,Scotch Ale / Wee Heavy,8,0,United States,Longmont,3,1/27/15 22:56
+Dom,Dale's Pale Ale,Oskar Blues Brewery,American Pale Ale,6.5,65,United States,Longmont,3.5,1/27/15 23:03
+Dom,Samuel Adams Boston Lager,Boston Beer Company (Samuel Adams),Vienna Lager,4.7,30,United States,Boston,3.5,1/29/15 23:01
+Dom,Hamm's Premium,Miller Brewing Company,North American Adjunct Lager,4.7,0,United States,Milwaukee,2,1/30/15 0:22
+Dom,Hoegaarden Blanche,Brouwerij van Hoegaarden,Witbier,4.9,0,Belgium,Hoegaarden,0.5,1/30/15 1:44
+Dom,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4.5,1/30/15 19:28
+Dom,HofbrÌ_u MÌ_nchner Weisse / MÌ_nchner Kindl / Hefe Weizen,Staatliches HofbrÌ_uhaus MÌ_nchen,Hefeweizen,5.1,12,Germany,MÌ_nchen,1.5,1/30/15 19:33
+Dom,IPA,Lagunitas Brewing Company,American IPA,6.2,46,United States,Petaluma,3.5,1/31/15 15:02
+Dom,Landshark Lager,Margaritaville Brewing Company,North American Adjunct Lager,4.7,0,United States,St. Louis,3,1/31/15 18:40
+Dom,Southern Pecan,Lazy Magnolia Brewing Company,English Brown Ale,4.5,19,United States,Kiln,4.5,2/1/15 14:28
+Dom,Pils,Lagunitas Brewing Company,Czech Pilsener,6,0,United States,Petaluma,3,2/1/15 17:29
+Dom,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,2/2/15 22:14
+Dom,Irish Ale,Boulevard Brewing Co.,Irish Red Ale,5.8,30,United States,Kansas City,4,2/2/15 22:37
+Dom,Scrimshaw Pilsner,North Coast Brewing Company,German Pilsner,4.7,22,United States,Fort Bragg,3.5,2/2/15 22:47
+Dom,Vanilla Bean Buffalo Sweat,Tallgrass Brewing Company,Milk / Sweet Stout,5,20,United States,Manhattan,4,2/3/15 21:54
+Dom,Ethos,Tallgrass Brewing Company,American IPA,6.8,110,United States,Manhattan,1,2/3/15 22:26
+Dom,Nutcracker Ale,Boulevard Brewing Co.,Winter Warmer,7.8,38,United States,Kansas City,4,2/5/15 19:38
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,2/5/15 22:23
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,2/5/15 23:03
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,1,2/6/15 0:13
+Dom,Miller Lite,Miller Brewing Company,American Light Lager,4.17,10,United States,Milwaukee,2,2/6/15 21:23
+Dom,Third Shift - Amber Lager,Coors Brewing Company,American Amber / Red Lager,5.3,0,United States,Golden,1,2/6/15 21:32
+Dom,Redd's Apple Ale,Redd's Brewing Company,Fruit Beer,5,0,United States,Milwaukee,2.5,2/6/15 22:02
+Dom,Budweiser,Anheuser-Busch,North American Adjunct Lager,5,0,United States,St. Louis,1,2/7/15 0:01
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/7/15 14:06
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/7/15 14:46
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/7/15 15:54
+Dom,Twisted Tea Hard Iced Tea,Twisted Tea Brewing Co,Malt Beer,5,0,United States,Cincinnati,1,2/7/15 21:45
+Dom,Natural Ice,Anheuser-Busch,North American Adjunct Lager,5.9,0,United States,St. Louis,1,2/7/15 21:53
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,2/8/15 0:24
+Dom,Twisted Tea Hard Iced Tea,Twisted Tea Brewing Co,Malt Beer,5,0,United States,Cincinnati,1,2/8/15 2:07
+Dom,IPA,Odell Brewing Co.,American IPA,7,60,United States,Fort Collins,4.5,2/8/15 22:11
+Dom,Keystone Light,Coors Brewing Company,American Light Lager,4.2,0,United States,Golden,1.5,2/9/15 22:05
+Dom,Beer Camp Hoppy Lager (2015),Sierra Nevada Brewing Co.,IPL (India Pale Lager),7,55,United States,Chico,4.5,2/10/15 17:22
+Dom,Mountain Livin' Pale Ale,Crazy Mountain Brewing Company,American Pale Ale,5.7,0,United States,Edwards,1,2/10/15 22:32
+Dom,Irish Ale,Boulevard Brewing Co.,Irish Red Ale,5.8,30,United States,Kansas City,4,2/10/15 22:47
+Dom,Strongbow Cider,Bulmers Cider,Cider,5,0,England,Hereford,3,2/10/15 23:25
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/11/15 20:11
+Dom,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4.5,2/11/15 23:24
+Dom,HofbrÌ_u Dunkel / Dunkel Gold,Staatliches HofbrÌ_uhaus MÌ_nchen,Dunkel Munich Lager,5.5,22,Germany,MÌ_nchen,3.5,2/11/15 23:47
+Dom,Bitburger Premium Pils / Beer,Bitburger Braugruppe,German Pilsner,4.8,38,Germany,Bitburg,2.5,2/12/15 0:42
+Dom,SÌÁga IPA,Summit Brewing Company,American IPA,6.4,80,United States,St. Paul,3,2/12/15 19:41
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2.5,2/12/15 22:46
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/13/15 9:41
+Dom,Goose IPA,Goose Island Beer Co.,English IPA,5.9,55,United States,Chicago,3,2/13/15 18:18
+Dom,Goose IPA,Goose Island Beer Co.,English IPA,5.9,55,United States,Chicago,3.5,2/13/15 18:44
+Dom,Colorado Native IPL,AC Golden Brewing Co.,IPL (India Pale Lager),6.5,0,United States,Golden,2.5,2/13/15 22:33
+Dom,Busch Light,Anheuser-Busch,American Light Lager,4.1,0,United States,St. Louis,0.5,2/14/15 0:34
+Dom,Cardinal Pale Ale,Nebraska Brewing Company,American Pale Ale,6,42,United States,Papillion,3.5,2/14/15 12:29
+Dom,Pilsner,Brickway Brewery & Distillery,Pilsner,4.8,0,United States,Omaha,2,2/14/15 13:01
+Dom,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,2/14/15 14:10
+Dom,Full Suspension Pale Ale,Squatters Craft Beers,American Pale Ale,4,40,United States,Salt Lake City,2.5,2/14/15 14:57
+Dom,Kentucky Breakfast Stout (KBS),Founders Brewing Co.,American Imperial / Double Stout,11.2,70,United States,Grand Rapids,4,2/14/15 17:17
+Dom,Banana Bread Beer,Charles Wells Brewery,Fruit Beer,5.2,18,England,Bedford,5,2/14/15 17:19
+Dom,Bourbon County Brand Stout,Goose Island Beer Co.,American Imperial / Double Stout,15,60,United States,Chicago,4.5,2/14/15 17:58
+Dom,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,3,2/14/15 20:15
+Dom,ÅÈywiec,Grupa ÅÈywiec,Pale Lager,5.6,0,Poland,,4,2/15/15 16:36
+Dom,Tatra,Grupa ÅÈywiec,Pale Lager,6,0,Poland,,3.5,2/15/15 17:07
+Dom,Warka,Browar Warka,Euro Lager,5.6,0,Poland,,4,2/15/15 17:08
+Dom,Spring Break,Lucky Bucket Brewing Company,Saison / Farmhouse Ale,5.3,18,United States,La Vista,1.5,2/16/15 20:12
+Dom,Old Foghorn,Anchor Brewing Company,English Barleywine,8.8,52,United States,San Francisco,3.5,2/16/15 20:42
+Dom,Amber,Abita Brewing Company,American Amber / Red Lager,4.5,17,United States,Abita Springs,3.5,2/17/15 22:18
+Dom,Bloodline Blood Orange IPA,Flying Dog Brewery,American IPA,7,40,United States,Frederick,3.5,2/18/15 23:45
+Dom,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4.5,2/19/15 0:03
+Dom,Hacker-Pschorr Oktoberfest MÌ_rzen,Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,0,Germany,MÌ_nchen,3.5,2/19/15 20:28
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,2/19/15 21:05
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/19/15 22:26
+Dom,Trippel,New Belgium Brewing Company,Belgian Tripel,7.8,25,United States,Fort Collins,3,2/20/15 18:01
+Dom,Vienna MÌ_rzen,Squatters Craft Beers,Oktoberfest/Festbier/MÌ_rzen,4,0,United States,Salt Lake City,3.5,2/20/15 20:14
+Dom,First Press Traditional Hard Cider,Ciderboys,Cider,5,0,United States,Stevens Point,3.5,2/20/15 20:51
+Dom,Hopluia,Spilker Ales,Belgian Pale Ale,6.5,0,United States,Cortland,3,2/20/15 23:12
+Dom,Newcastle Brown Ale,John Smiths,English Brown Ale,4.7,0,England,Tadcaster,3.5,2/21/15 13:08
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,2/21/15 13:57
+Dom,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,2/21/15 15:30
+Dom,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,2/21/15 17:41
+Dom,The Northern,Granite City Food & Brewery,American Light Lager,4.5,0,United States,Minneapolis,3.5,2/21/15 19:13
+Dom,The Bennie,Granite City Food & Brewery,Bock,5.5,0,United States,Minneapolis,2.5,2/21/15 19:35
+Dom,Wolf Picker,Odell Brewing Co.,American Pale Ale,5.5,0,United States,Fort Collins,2,2/21/15 21:28
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,2/22/15 16:01
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,2/22/15 18:58
+Dom,Curious Traveler Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,7,United States,Burlington,4,2/22/15 19:38
+Dom,Belgian White,Shock Top Brewing Co.,Witbier,5.2,0,United States,St Louis,3.5,2/23/15 22:25
+Dom,Fallen Angel Sweet Stout,Empyrean Brewing Co.,Milk / Sweet Stout,5.6,19,United States,Lincoln,3,2/24/15 22:29
+Dom,Fallen Angel Sweet Stout,Empyrean Brewing Co.,Milk / Sweet Stout,5.6,19,United States,Lincoln,3,2/24/15 23:14
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3.5,2/25/15 17:11
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3.5,2/25/15 17:59
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3.5,2/25/15 18:21
+Dom,Natural Light,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,1,2/25/15 23:39
+Dom,Natural Light,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,1,2/25/15 23:55
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,2/26/15 18:00
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3,2/26/15 19:12
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3.5,2/26/15 20:30
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/26/15 21:49
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/26/15 22:45
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,2/26/15 23:42
+Dom,Slow Ride,New Belgium Brewing Company,Session IPA,4.5,40,United States,Fort Collins,4,2/27/15 20:54
+Dom,Miller Lite,Miller Brewing Company,American Light Lager,4.17,10,United States,Milwaukee,2,2/28/15 13:43
+Dom,First Peach Ale,Blue Moon Brewing Company,Belgian Brown Ale ,5.5,15,United States,Denver,1.5,2/28/15 14:11
+Dom,First Peach Ale,Blue Moon Brewing Company,Belgian Brown Ale ,5.5,15,United States,Denver,2,2/28/15 15:36
+Dom,Coors Original,Coors Brewing Company,North American Adjunct Lager,5,0,United States,Golden,1,2/28/15 19:47
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,3/2/15 21:31
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,2,3/2/15 22:11
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,3/2/15 22:38
+Dom,Radial IPA,Infusion Brewing Company,American IPA,6.8,98,United States,Benson,0.5,3/3/15 22:03
+Dom,Takeout Rye IPA,Squatters Craft Beers,American IPA,6.25,0,United States,Salt Lake City,4,3/3/15 22:43
+Dom,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3.5,3/4/15 20:54
+Dom,Miller High Life,Miller Brewing Company,North American Adjunct Lager,5,0,United States,Milwaukee,3,3/4/15 21:19
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,3/4/15 22:39
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,3/4/15 23:33
+Dom,Sweaty Betty,Boulder Beer Company,Hefeweizen,5.2,0,United States,Boulder,3.5,3/5/15 18:09
+Dom,Dale's Pale Ale,Oskar Blues Brewery,American Pale Ale,6.5,65,United States,Longmont,3.5,3/5/15 21:21
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,3/5/15 23:16
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,3/6/15 0:16
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,3/6/15 0:32
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,3/6/15 0:51
+Dom,Trippel,New Belgium Brewing Company,Belgian Tripel,7.8,25,United States,Fort Collins,3,3/6/15 19:03
+Dom,Weihenstephaner Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,Hefeweizen,5.4,14,Germany,Freising,1,3/6/15 19:11
+Dom,Beer Camp Hoppy Lager (2015),Sierra Nevada Brewing Co.,IPL (India Pale Lager),7,55,United States,Chico,4.5,3/6/15 19:14
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,4,3/6/15 23:09
+Dom,312 Urban Wheat Ale,Goose Island Beer Co.,American Pale Wheat Ale,4.2,18,United States,Chicago,3,3/7/15 0:04
+Dom,Budweiser,Anheuser-Busch,North American Adjunct Lager,5,0,United States,St. Louis,1.5,3/7/15 22:44
+Dom,Buttface Amber Ale,RAM Restaurant & Brewery / C.B. & Potts,American Amber / Red Ale,5.8,26,United States,Lakewood,3.5,3/8/15 21:42
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1,3/8/15 21:42
+Dom,Pick Axe IPA,Tommyknocker Brewery,American IPA,6.2,55,United States,Idaho Springs,3.5,3/9/15 14:12
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/10/15 13:36
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/10/15 14:32
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,2,3/10/15 18:23
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,2,3/10/15 21:30
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/11/15 9:13
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/11/15 10:18
+Dom,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,3/11/15 20:24
+Dom,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,3/11/15 20:54
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/12/15 11:25
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/12/15 12:18
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/12/15 13:03
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/12/15 16:55
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/12/15 20:13
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/12/15 20:58
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/12/15 21:52
+Dom,Light Beer,Minhas Craft Brewery ,American Light Lager,4.2,0,United States,Monroe,1.5,3/13/15 14:44
+Dom,71 Pale Ale,RAM Restaurant & Brewery / C.B. & Potts,American Pale Ale,5.5,0,United States,Lakewood,3.5,3/13/15 19:30
+Dom,Big Red IPA,RAM Restaurant & Brewery / C.B. & Potts,American IPA,6.2,65,United States,Lakewood,3.5,3/13/15 20:17
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1,3/13/15 21:36
+Dom,Tank 7 Farmhouse Ale,Boulevard Brewing Co.,Saison / Farmhouse Ale,8.5,38,United States,Kansas City,1.5,3/13/15 22:03
+Dom,Hoss,Great Divide Brewing Company,Rye Beer,6.2,0,United States,Denver,,3/13/15 22:57
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,3/13/15 23:27
+Dom,Original Cider,Crispin Cider Company,Cider,5,0,United States,Colfax,3,3/14/15 0:00
+Dom,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,3/15/15 19:17
+Dom,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,3,3/15/15 20:24
+Dom,Hefevicen,Gifford Park Brewing Co.,Hefeweizen,5,20,United States,,3,3/15/15 20:57
+Dom,Budweiser,Anheuser-Busch,North American Adjunct Lager,5,0,United States,St. Louis,1.5,3/16/15 21:51
+Dom,Budweiser,Anheuser-Busch,North American Adjunct Lager,5,0,United States,St. Louis,1.5,3/16/15 22:50
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,5,3/17/15 20:31
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,4.5,3/17/15 21:20
+Dom,Single-Wide I.P.A.,Boulevard Brewing Co.,American IPA,5.7,57,United States,Kansas City,4,3/18/15 23:44
+Dom,Miller High Life,Miller Brewing Company,North American Adjunct Lager,5,0,United States,Milwaukee,3,3/19/15 22:12
+Dom,Boxer,Minhas Craft Brewery ,North American Adjunct Lager,5,0,United States,Monroe,1.5,3/20/15 0:09
+Dom,Landshark Lager,Margaritaville Brewing Company,North American Adjunct Lager,4.7,0,United States,St. Louis,3,3/20/15 18:52
+Dom,St. Pauli Girl Lager,Brauerei Beck,Helles Lager,4.9,0,Germany,Bremen,2,3/21/15 16:49
+Dom,Bud Light Lime,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,3,3/21/15 17:36
+Dom,Pacifico Clara,Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Mexico City,1,3/21/15 19:24
+Dom,Pop-Up Session I.P.A.,Boulevard Brewing Co.,Session IPA,4.3,41,United States,Kansas City,2.5,3/21/15 19:29
+Dom,Rolling Rock Extra Pale,Latrobe Brewing Co.,North American Adjunct Lager,4.4,0,United States,Saint Louis,1.5,3/21/15 19:55
+Dom,Miller High Life,Miller Brewing Company,North American Adjunct Lager,5,0,United States,Milwaukee,2,3/22/15 1:49
+Dom,ÅÈywiec Porter,Grupa ÅÈywiec,Baltic Porter,9.5,45,Poland,,4.5,3/22/15 13:43
+Dom,ÅÈywiec,Grupa ÅÈywiec,Pale Lager,5.6,0,Poland,,4,3/22/15 13:57
+Dom,Farrell's Irish Red,Nebraska Brewing Company,Irish Red Ale,5,22,United States,Papillion,3,3/22/15 20:27
+Dom,Hop Hunter IPA,Sierra Nevada Brewing Co.,American IPA,6.2,60,United States,Chico,2.5,3/22/15 20:51
+Dom,Duchesse de Bourgogne,Brouwerij Verhaeghe,Flanders Red Ale,6.2,0,Belgium,Vichte,0.5,3/22/15 21:19
+Dom,PÌ»che Mel Bush,Brasserie Dubuisson,Fruit Beer,8.5,16,Belgium,Pipaix,4.5,3/22/15 21:20
+Dom,Vanderghinste Oud Bruin,Omer Vander Ghinste Brewery,Flanders Red Ale,5.5,0,Belgium,Bellegem,1.5,3/22/15 21:22
+Dom,GarÌ_n Nr. 19,Borg BrugghÌ_s,Russian Imperial Stout,11.5,45,Iceland,"ReykjavÌ_k,",3.5,3/22/15 21:24
+Dom,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,5.8,24,United States,Marshall,4,3/22/15 21:48
+Dom,Snowcat Coffee Stout,Crazy Mountain Brewing Company,American Stout,5.9,57,United States,Edwards,4,3/22/15 21:50
+Dom,Trainwreck Imperial Red,Upstream Brewing Company ,Imperial / Double Red Ale,8.6,70,United States,Omaha,3.5,3/23/15 22:39
+Dom,Cappuccino Stout,Lagunitas Brewing Company,American Imperial / Double Stout,9.2,30,United States,Petaluma,2,3/23/15 22:49
+Dom,Apricot Ale,Pyramid Breweries,Fruit Beer,5.1,11,United States,Seattle,3.5,3/23/15 23:06
+Dom,Spring Belle,Boulevard Brewing Co.,Saison / Farmhouse Ale,6.2,35,United States,Kansas City,2,3/23/15 23:21
+Dom,India Red Ale,Zipline Brewing Co.,American IPA,7.1,65,United States,Lincoln,2.5,3/24/15 20:34
+Dom,Harp Premium Lager,Guinness,Euro Lager,5,21,Ireland,Dublin 8,3.5,3/24/15 21:29
+Dom,Van Diest FrÌ_li Strawberry Beer,Brouwerij Huyghe,Fruit Beer,4.1,0,Belgium,Melle,4,3/24/15 21:37
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,4,3/25/15 1:10
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,5,3/25/15 23:07
+Dom,Spaten MÌ_nchner Hell / Premium Lager,Spaten-Franziskaner-LÌ_wenbrÌ_u-Gruppe,Helles Lager,5.2,21,Germany,MÌ_nchen,3.5,3/25/15 23:18
+Dom,Andechser Doppelbock Dunkel,Klosterbrauerei Andechs,Doppelbock ,7.1,0,Germany,Andechs,3,3/25/15 23:37
+Dom,Oktoberfest MÌ_rzen (USA Only),Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,2,Germany,MÌ_nchen,4.5,3/26/15 0:18
+Dom,Cinnful Apple,Angry Orchard Cider Company,Cider,5,0,United States,Cincinnati,2.5,3/27/15 18:32
+Dom,Chaco Canyon Honey Gold,Empyrean Brewing Co.,Golden Ale,4.8,21,United States,Lincoln,3,3/27/15 19:26
+Dom,Fresh Squeezed IPA,Deschutes Brewery,American IPA,6.4,60,United States,Bend,3,3/27/15 23:17
+Dom,Smithwick's Draught / Premium Irish Ale / Red Ale,Guinness,Irish Red Ale,4.5,0,Ireland,Dublin 8,2.5,3/28/15 1:11
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,2,3/28/15 1:42
+Dom,Deviant Dale's,Oskar Blues Brewery,American IPA,8,85,United States,Longmont,3.5,3/28/15 16:30
+Dom,Twin Turbo,Abita Brewing Company,Imperial / Double Brown Ale,7.2,0,United States,Abita Springs,1.5,3/28/15 17:09
+Dom,HofbrÌ_u Delicator,Staatliches HofbrÌ_uhaus MÌ_nchen,Doppelbock ,7.5,0,Germany,MÌ_nchen,2.5,3/28/15 17:18
+Dom,Bud Light Platinum,Anheuser-Busch,American Light Lager,6,0,United States,St. Louis,2,3/28/15 20:33
+Dom,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,3.5,3/29/15 19:03
+Dom,Rumble Oak Aged India Pale Ale (IPA),Great Divide Brewing Company,American IPA,7.1,50,United States,Denver,3,3/29/15 20:01
+Dom,Beer Camp Hoppy Lager (2015),Sierra Nevada Brewing Co.,IPL (India Pale Lager),7,55,United States,Chico,3.5,3/30/15 19:51
+Dom,Consilium,Renegade Brewing Company,American Pale Ale,5.4,40,United States,Denver,4,3/31/15 20:55
+Dom,[Redacted] IPA,Renegade Brewing Company,American IPA,7,60,United States,Denver,3.5,3/31/15 21:17
+Dom,Sunday Morning Coffee Strong Ale,Renegade Brewing Company,American Strong Ale,6.8,0,United States,Denver,4,3/31/15 21:59
+Dom,Spaten MÌ_nchner Hell / Premium Lager,Spaten-Franziskaner-LÌ_wenbrÌ_u-Gruppe,Helles Lager,5.2,21,Germany,MÌ_nchen,3.5,4/1/15 23:59
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3.5,4/2/15 14:41
+Dom,Dry Hopped APA (American Pale Ale),Schlafly - The Saint Louis Brewery,American Pale Ale,5.9,50,United States,Saint Louis,4.5,4/4/15 0:09
+Dom,Union Jack IPA,Firestone Walker Brewing Company,American IPA,7.5,70,United States,Paso Robles,4,4/4/15 14:47
+Dom,Tsingtao,Tsingtao Brewery,North American Adjunct Lager,4.7,0,China / People's Republic of China,Qingdao,3.5,4/4/15 18:36
+Dom,Heineken,Heineken,Euro Lager,5,19,Netherlands,Zoeterwoude,3.5,4/4/15 21:32
+Dom,Samuel Adams Summer Ale,Boston Beer Company (Samuel Adams),American Pale Wheat Ale,5.3,7,United States,Boston,3.5,4/4/15 21:35
+Dom,Dunkel,Kansas City Bier Company,Dunkel Munich Lager,5,18,United States,Kansas City,4,4/4/15 21:53
+Dom,SÌÊga IPA (2015),Summit Brewing Company,American IPA,6.4,80,United States,St. Paul,2.5,4/4/15 22:16
+Dom,Michelob Golden Draft Light,Anheuser-Busch,American Light Lager,4.1,0,United States,St. Louis,0.5,4/4/15 23:08
+Dom,Dos Equis Azul,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,Herbed/Spiced Beer,5.7,0,Mexico,Monterrey,4,4/5/15 19:35
+Dom,Sol,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,3.5,4/5/15 20:06
+Dom,Summer Shandy,Jacob Leinenkugel Brewing Company,Radler,4.2,14,United States,Chippewa Falls,3,4/6/15 20:55
+Dom,Summer Shandy,Jacob Leinenkugel Brewing Company,Radler,4.2,14,United States,Chippewa Falls,3,4/6/15 21:24
+Dom,The Raven,Lucky Bucket Brewing Company,Black IPA / Cascadian Dark Ale,7.2,75,United States,La Vista,3,4/7/15 19:55
+Dom,Butcher Block Brown With Chocolate And Peanut Butter,Infusion Brewing Company,American Brown Ale,6.2,0,United States,Benson,5,4/7/15 20:14
+Dom,A Honey of a Saison,Boulder Beer Company,Saison / Farmhouse Ale,11.5,25,United States,Boulder,3.5,4/7/15 20:22
+Dom,Stone Enjoy By 04.20.15 IPA,Stone Brewing Co.,Imperial / Double IPA,9.4,88,United States,Escondido,3.5,4/7/15 20:35
+Dom,Oatmeal IPA (Hop Kitchen),New Belgium Brewing Company,American IPA,6.5,75,United States,Fort Collins,1.5,4/7/15 21:21
+Dom,Dos Equis Amber,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,Vienna Lager,4.7,0,Mexico,Monterrey,3,4/8/15 18:33
+Dom,Lagunitas Sucks,Lagunitas Brewing Company,Imperial / Double IPA,7.85,63,United States,Petaluma,3.5,4/8/15 20:46
+Dom,HofbrÌ_u Maibock,Staatliches HofbrÌ_uhaus MÌ_nchen,Maibock/Helles Bock,7.2,0,Germany,MÌ_nchen,4,4/8/15 23:18
+Dom,Undercover Investigation Shut-Down Ale,Lagunitas Brewing Company,American Strong Ale,9.3,66,United States,Petaluma,3.5,4/8/15 23:41
+Dom,Apricot Hefeweizen,Wasatch Brewery,Hefeweizen,4,0,United States,Park City,3.5,4/8/15 23:54
+Dom,American Wheat,Upstream Brewing Company ,American Pale Wheat Ale,4.5,10,United States,Omaha,3.5,4/9/15 21:06
+Dom,Belgian White,Shock Top Brewing Co.,Witbier,5.2,0,United States,St Louis,2.5,4/10/15 19:54
+Dom,Samuel Adams Summer Ale,Boston Beer Company (Samuel Adams),American Pale Wheat Ale,5.3,7,United States,Boston,3.5,4/11/15 14:30
+Dom,Honker's Ale,Goose Island Beer Co.,Extra Special / Strong Bitter,4.3,30,United States,Chicago,4,4/11/15 14:33
+Dom,A Little Sumpin' Sumpin' Ale,Lagunitas Brewing Company,American Pale Wheat Ale,7.5,64,United States,Petaluma,3.5,4/11/15 15:41
+Dom,Budweiser,Anheuser-Busch,North American Adjunct Lager,5,0,United States,St. Louis,1.5,4/11/15 21:10
+Dom,Natural Light,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,1,4/12/15 1:19
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,0.5,4/12/15 2:13
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,4/13/15 22:12
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,4/13/15 22:26
+Dom,Summertime Rye,Nebraska Brewing Company,Rye Beer,4.8,0,United States,Papillion,2.5,4/14/15 14:11
+Dom,F5 IPA,COOP Ale Works,American IPA,6.8,100,United States,Oklahoma City,3,4/14/15 22:50
+Dom,Canyon Cream Ale,Crow Peak Brewing Company ,Cream Ale,5,10,United States,Spearfish,1.5,4/14/15 23:09
+Dom,Yeti Imperial Stout With Peruvian Chocolate,Great Divide Brewing Company,Russian Imperial Stout,9.5,0,United States,Denver,4,4/14/15 23:17
+Dom,Long Island Ice Tea,Clubtails (Groupe Geloso),Malt Liquor ,10,110,Canada,Laval,0.5,4/16/15 0:41
+Dom,Belgian White,Blue Moon Brewing Company,Witbier,5.4,9,United States,Denver,3.5,4/16/15 22:36
+Dom,CRAVE Signature Amber,August Schell Brewing Company,American Amber / Red Ale,0,0,United States,New Ulm,2,4/17/15 20:27
+Dom,Tecate,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,3,4/19/15 17:14
+Dom,Steel Reserve 211 High Gravity Lager,Steel Brewing Co,Malt Liquor ,8.1,0,United States,Irwindale,1,4/19/15 21:40
+Dom,Simpler Times Lager,Minhas Craft Brewery ,Pale Lager,6.2,0,United States,Monroe,0.5,4/19/15 22:03
+Dom,Loose Leaf Session Ale,Odell Brewing Co.,Session IPA,4.5,0,United States,Fort Collins,4,4/19/15 22:12
+Dom,Warsteiner Premium Dunkel,Warsteiner,Dunkel Munich Lager,4.8,0,Germany,Warstein,2,4/20/15 21:30
+Dom,Warsteiner Premium Oktoberfest,Warsteiner,Oktoberfest/Festbier/MÌ_rzen,5.9,0,Germany,Warstein,1.5,4/20/15 22:48
+Dom,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,4,4/21/15 21:20
+Dom,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,3,4/21/15 21:44
+Dom,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,4/21/15 22:19
+Dom,Rabid Redbird,Farnam House Brewing Company,American Pale Ale,7.5,28,United States,Omaha,4,4/22/15 20:03
+Dom,Hop Harvest Saison,Farnam House Brewing Company,Saison / Farmhouse Ale,6,40,United States,Omaha,3.5,4/22/15 20:12
+Dom,Belgian IPA,Farnam House Brewing Company,Belgian IPA,7.5,65,United States,Omaha,2.5,4/22/15 20:13
+Dom,Oud Bruin (Old Brown),Farnam House Brewing Company,Flanders Oud Bruin,7,22,United States,Omaha,0.5,4/22/15 20:16
+Dom,Grisette Light Saison,Farnam House Brewing Company,Saison / Farmhouse Ale,3.9,26,United States,Omaha,3.5,4/22/15 20:18
+Dom,BiÌ¬re de Garde,Farnam House Brewing Company,BiÌ¬re de Garde,6.3,22,United States,Omaha,3,4/22/15 20:20
+Dom,Taft American Stout,Farnam House Brewing Company,American Stout,6.4,52,United States,Omaha,4,4/22/15 20:22
+Dom,Taft American Stout,Farnam House Brewing Company,American Stout,6.4,52,United States,Omaha,4,4/22/15 20:24
+Dom,Hoppy Maibock,Farnam House Brewing Company,Maibock/Helles Bock,7,45,United States,Omaha,2.5,4/22/15 20:25
+Dom,Keller German Lager,Farnam House Brewing Company,Kellerbier / Zwickelbier,5.5,0,United States,Omaha,4.5,4/22/15 20:28
+Dom,Winter Wheat Wine,Farnam House Brewing Company,Wheat Wine,8.5,61,United States,Omaha,0.5,4/22/15 20:29
+Dom,Cherry Melomel,Moonstruck Meadery,Melomel,10.5,0,United States,Bellevue,0.5,4/22/15 20:31
+Dom,The Calling,Boulevard Brewing Co.,Imperial / Double IPA,8.5,75,United States,Kansas City,4.5,4/24/15 13:18
+Dom,Rebel IPA,Boston Beer Company (Samuel Adams),American IPA,6.5,45,United States,Boston,3,4/24/15 18:53
+Dom,Wicked Apple,Redd's Brewing Company,Fruit Beer,8,0,United States,Milwaukee,2,4/25/15 0:34
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,4,4/27/15 3:42
+Dom,Pale Ale,Boulevard Brewing Co.,American Pale Ale,5.4,30,United States,Kansas City,4.5,4/27/15 14:01
+Dom,Budweiser Select,Anheuser-Busch,American Light Lager,4.3,0,United States,St. Louis,2.25,4/27/15 18:14
+Dom,Sol,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,2.75,4/28/15 13:20
+Dom,South Pacific Pineapple IPA,Infusion Brewing Company,American IPA,7,100,United States,Benson,2.5,4/28/15 21:38
+Dom,Vanilla Bean Blonde Ale,Infusion Brewing Company,American Blonde Ale,4.8,16,United States,Benson,4.5,4/28/15 22:05
+Dom,Radial IPA,Infusion Brewing Company,American IPA,6.8,98,United States,Benson,3.25,4/28/15 22:19
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,1.25,4/29/15 19:20
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,1.25,4/29/15 19:47
+Dom,Spaten MÌ_nchner Hell / Premium Lager,Spaten-Franziskaner-LÌ_wenbrÌ_u-Gruppe,Helles Lager,5.2,21,Germany,MÌ_nchen,3.5,4/29/15 23:42
+Dom,Long Island Ice Tea,Clubtails (Groupe Geloso),Malt Liquor ,10,110,Canada,Laval,0.5,4/30/15 0:05
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,4,4/30/15 20:17
+Dom,Dos Equis Azul,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,Herbed/Spiced Beer,5.7,0,Mexico,Monterrey,4,4/30/15 20:49
+Dom,Strawberry Harvest Lager,Abita Brewing Company,Fruit Beer,4.2,13,United States,Abita Springs,5,5/3/15 20:47
+Dom,Skinny Dip,New Belgium Brewing Company,Pale Lager,4.2,22,United States,Fort Collins,4.25,5/3/15 20:48
+Dom,Ace Pineapple Cider,Ace Cider (The California Cider Company),Cider,5,0,United States,Sebastopol,4,5/3/15 21:14
+Dom,Tree Shaker Imperial Peach IPA,Odell Brewing Co.,Imperial / Double IPA,8,48,United States,Fort Collins,3.25,5/3/15 21:15
+Dom,Carpe Brewem Imperial Mango IPA,Empyrean Brewing Co.,Imperial / Double IPA,7.8,90,United States,Lincoln,3.75,5/3/15 21:16
+Dom,Claymore Scotch Ale,Great Divide Brewing Company,Scotch Ale / Wee Heavy,7.7,0,United States,Denver,4.25,5/3/15 21:19
+Dom,Carlsberg,Carlsberg Group,Pilsner,5,0,Denmark,Copenhagen,3.25,5/4/15 22:54
+Dom,Sol,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,2.25,5/5/15 9:52
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3.75,5/5/15 13:09
+Dom,Strawberry Harvest Lager,Abita Brewing Company,Fruit Beer,4.2,13,United States,Abita Springs,5,5/5/15 17:10
+Dom,Bohemia ClÌÁsica,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,Pale Lager,4.8,0,Mexico,Monterrey,2.75,5/5/15 18:00
+Dom,Carta Blanca,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,3.5,5/5/15 18:29
+Dom,EOS Hefeweizen,Nebraska Brewing Company,Hefeweizen,5.2,13,United States,Papillion,3.25,5/5/15 20:49
+Dom,Double Simcoe IPA,Weyerbacher Brewing Company,Imperial / Double IPA,9,90,United States,Easton,3.5,5/5/15 21:31
+Dom,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,3.75,5/6/15 17:42
+Dom,5:00 Afternoon Ale,Renegade Brewing Company,Blonde Ale,5.5,25,United States,Denver,3.75,5/6/15 21:53
+Dom,Long Island Ice Tea,Clubtails (Groupe Geloso),Malt Liquor ,10,110,Canada,Laval,0.5,5/6/15 22:56
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,5/7/15 23:15
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2,5/7/15 23:28
+Dom,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,2.25,5/7/15 23:48
+Dom,Euphoria Pale Ale,Ska Brewing,American Pale Ale,6.1,60,United States,Durango,4,5/8/15 18:53
+Dom,Seeradler Classik,Brauerei Max Leibinger,Radler,2.8,0,Germany,Ravensburg,4.75,5/8/15 22:51
+Dom,Dos Equis Special Lager,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.45,0,Mexico,Monterrey,2,5/8/15 23:41
+Dom,River Ale,Deschutes Brewery,Golden Ale,4,28,United States,Bend,3,5/8/15 23:42
+Dom,Pile O' Dirt Porter,Crow Peak Brewing Company ,American Porter,6,40,United States,Spearfish,2.5,5/9/15 18:40
+Dom,Pile O' Dirt Porter,Crow Peak Brewing Company ,American Porter,6,40,United States,Spearfish,2.75,5/9/15 19:54
+Dom,Amber,Alaskan Brewing Co.,Altbier,5.3,0,United States,Juneau,3.5,5/9/15 20:39
+Dom,Amber,Alaskan Brewing Co.,Altbier,5.3,0,United States,Juneau,3.75,5/11/15 2:04
+Dom,Double Pale Ale,Tallgrass Brewing Company,American Pale Ale,0,0,United States,Manhattan,4,5/11/15 19:05
+Dom,Chocolate Pistachio Milk Porter,Infusion Brewing Company,Porter,5.8,33,United States,Benson,3.75,5/11/15 19:06
+Dom,Splish Splash,Infusion Brewing Company,Fruit Beer,5.4,20,United States,Benson,3.5,5/11/15 19:24
+Dom,Samuel Adams Porch Rocker,Boston Beer Company (Samuel Adams),Radler,4.5,8,United States,Boston,3.25,5/11/15 21:24
+Dom,Cropduster Mid-American IPA,Thunderhead Brewing Company,American IPA,6.5,0,United States,Kearney,2.75,5/11/15 21:46
+Dom,312 Urban Wheat Ale,Goose Island Beer Co.,American Pale Wheat Ale,4.2,18,United States,Chicago,4,5/12/15 22:59
+Dom,Dos Equis Special Lager,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.45,0,Mexico,Monterrey,1.75,5/12/15 23:00
+Dom,Vanilla Bean Blonde Ale,Infusion Brewing Company,American Blonde Ale,4.8,16,United States,Benson,4.5,5/13/15 23:40
+Dom,Belgian White,Blue Moon Brewing Company,Witbier,5.4,9,United States,Denver,3.5,5/14/15 17:34
+Dom,Chainbreaker White IPA,Deschutes Brewery,White IPA,5.6,55,United States,Bend,3.5,5/14/15 19:37
+Dom,Equinox,Lagunitas Brewing Company,American Pale Ale,8,50,United States,Petaluma,1,5/15/15 22:42
+Dom,Coors Original,Coors Brewing Company,North American Adjunct Lager,5,0,United States,Golden,3.5,5/16/15 1:58
+Dom,"Corona Extra (Coronita, Familiar, Mega)",Grupo Modelo S.A. de C.V.,North American Adjunct Lager,4.6,0,Mexico,Mexico City,3.75,5/16/15 11:34
+Dom,Vanilla Bean Blonde Ale,Infusion Brewing Company,American Blonde Ale,4.8,16,United States,Benson,3.75,5/16/15 22:15
+Dom,Bass Pale Ale,Bass Brewers,English Pale Ale,5,49,England,Shamlesbury,3.5,5/17/15 20:57
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,5/17/15 21:15
+Dom,Guinness Draught,Guinness,Irish Dry Stout,4.3,45,Ireland,Dublin 8,3.25,5/17/15 21:28
+Dom,Amstel Light,Amstel Brouwerij,American Light Lager,3.5,0,Netherlands,Zoeterwoude,4.5,5/19/15 19:28
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.5,5/19/15 19:50
+Dom,Colorado Native Amber Lager,AC Golden Brewing Co.,American Amber / Red Lager,5.5,38,United States,Golden,2.75,5/19/15 20:32
+Dom,Blue Star,North Coast Brewing Company,American Pale Wheat Ale,4.5,17,United States,Fort Bragg,4,5/19/15 21:45
+Dom,Grain Belt Premium Light,August Schell Brewing Company,American Light Lager,4,0,United States,New Ulm,3.5,5/21/15 19:51
+Dom,Clementine,Clown Shoes,Witbier,6,0,United States,Ipswich,3.75,5/23/15 18:40
+Dom,House Honey Blonde,Yard House,Blonde Ale,4.4,0,United States,Irvine,3,5/23/15 18:45
+Dom,Raspberry Ale,Dark Horse Brewing Co.,Fruit Beer,5,0,United States,Marshall,4,5/23/15 18:55
+Dom,Wooden Rooster (2015),Tallgrass Brewing Company,Belgian Tripel,8.5,34,United States,Manhattan,4,5/25/15 18:19
+Dom,Samuel Adams Summer Ale,Boston Beer Company (Samuel Adams),American Pale Wheat Ale,5.3,7,United States,Boston,3.75,5/25/15 18:37
+Dom,Good Juju,Left Hand Brewing Company,Herbed/Spiced Beer,4.5,20,United States,Longmont,4,5/25/15 18:38
+Dom,Points Unknown IPA,Stone Brewing Co.,Imperial / Double IPA,9.5,72,United States,Escondido,3.25,5/25/15 19:35
+Dom,All Day IPA,Founders Brewing Co.,Session IPA,4.7,42,United States,Grand Rapids,2.5,5/26/15 20:15
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,1.5,5/26/15 21:04
+Dom,Elephant,Carlsberg Group,Imperial / Double Pilsner,7.2,0,Denmark,Copenhagen,3.25,5/26/15 21:11
+Dom,Easy Street Wheat,Odell Brewing Co.,American Pale Wheat Ale,4.6,0,United States,Fort Collins,4,5/27/15 19:51
+Dom,Full Circle,New Holland Brewing Company,KÌ_lsch,4.9,0,United States,Holland,4.25,5/28/15 19:51
+Dom,Mojo India Pale Ale (IPA),Boulder Beer Company,American IPA,7.2,70,United States,Boulder,3.25,5/28/15 20:03
+Dom,Oak-Aged Barleywine,Schlafly - The Saint Louis Brewery,American Barleywine,10.2,40,United States,Saint Louis,5,5/28/15 20:36
+Dom,Sofie,Goose Island Beer Co.,Saison / Farmhouse Ale,6.5,25,United States,Chicago,3.75,5/28/15 22:16
+Dom,Raspberry Wheat,Wasatch Brewery,Fruit Beer,4,0,United States,Park City,3.5,5/28/15 22:37
+Dom,D.R. Brown Ale,Infusion Brewing Company,American Brown Ale,5.6,20,United States,Benson,4.25,5/29/15 22:44
+Dom,Tecate,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,3,5/30/15 18:48
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,5/30/15 19:22
+Dom,Spaten MÌ_nchner Hell / Premium Lager,Spaten-Franziskaner-LÌ_wenbrÌ_u-Gruppe,Helles Lager,5.2,21,Germany,MÌ_nchen,3.5,5/30/15 23:32
+Dom,Warsteiner Premium Dunkel,Warsteiner,Dunkel Munich Lager,4.8,0,Germany,Warstein,2.25,5/30/15 23:49
+Dom,Stella Artois Cidre,Stella Artois,Cider,4.5,0,Belgium,3000 Leuven,3,5/31/15 20:45
+Dom,Certified Evil,Lucky Bucket Brewing Company,Imperial / Double Porter,9.1,48,United States,La Vista,3.75,6/1/15 19:11
+Dom,Pale Ale,Sierra Nevada Brewing Co.,American Pale Ale,5.6,37,United States,Chico,2.25,6/1/15 19:56
+Dom,The Stoic,Deschutes Brewery,Belgian Quad,11,20,United States,Bend,0.75,6/1/15 20:49
+Dom,Root Beer,Gottberg Brew Pub,Non-Alcoholic,0,0,United States,Columbus,4,6/1/15 20:51
+Dom,Sonar,Spilker Ales,Belgian Pale Ale,5.7,0,United States,Cortland,3.25,6/2/15 19:50
+Dom,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,0.25,6/2/15 21:15
+Dom,Anchor California Lager,Anchor Brewing Company,Golden Lager,4.9,0,United States,San Francisco,1.75,6/2/15 21:15
+Dom,Strawberry Harvest Lager,Abita Brewing Company,Fruit Beer,4.2,13,United States,Abita Springs,5,6/2/15 21:38
+Dom,Amstel Light,Amstel Brouwerij,American Light Lager,3.5,0,Netherlands,Zoeterwoude,3.75,6/3/15 21:47
+Dom,Game Changer,Redhook Brewery,American Pale Ale,4.6,25,United States,Woodinville,3.5,6/4/15 20:20
+Dom,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,6/4/15 21:10
+Dom,Summer Shandy,Jacob Leinenkugel Brewing Company,Radler,4.2,14,United States,Chippewa Falls,3.25,6/6/15 10:55
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,6/6/15 11:40
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,6/6/15 20:48
+Dom,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,3.5,6/6/15 21:54
+Dom,Amber Ale,Flying Monkeys Craft Brewery,American Amber / Red Ale,5,16,Canada,Barrie,0.5,6/6/15 21:55
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,6/7/15 1:08
+Dom,Illusive Traveler Grapefruit Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,0,United States,Burlington,3,6/7/15 15:11
+Dom,Saranac Legacy IPA,The Matt Brewing Company (Saranac),American IPA,6.5,60,United States,Utica,3.75,6/8/15 20:33
+Dom,Slow Ride,New Belgium Brewing Company,Session IPA,4.5,40,United States,Fort Collins,4.25,6/9/15 21:00
+Dom,Slow Ride,New Belgium Brewing Company,Session IPA,4.5,40,United States,Fort Collins,4.25,6/9/15 21:33
+Dom,Oktoberfest MÌ_rzen (USA Only),Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,2,Germany,MÌ_nchen,2.75,6/9/15 22:12
+Dom,Michelob Golden Draft Light,Anheuser-Busch,American Light Lager,4.1,0,United States,St. Louis,2.25,6/12/15 18:48
+Dom,Let It Ride IPA,Indeed Brewing Company,American IPA,6.8,90,United States,Minneapolis,3.25,6/13/15 15:42
+Dom,Grain Belt Premium,August Schell Brewing Company,North American Adjunct Lager,4.9,0,United States,New Ulm,1.5,6/13/15 23:21
+Dom,Vanilla Bean Blonde Ale,Infusion Brewing Company,American Blonde Ale,4.8,16,United States,Benson,4.5,6/16/15 18:33
+Dom,Tasting Room - Blonde Ale,Boulevard Brewing Co.,American Blonde Ale,5.8,24,United States,Kansas City,3,6/20/15 21:48
+Dom,90 Shilling,Odell Brewing Co.,Scotch Ale / Wee Heavy,5.3,27,United States,Fort Collins,4.25,6/23/15 21:18
+Dom,Summer Ale,Goose Island Beer Co.,American Pale Ale,5,33,United States,Chicago,3.5,6/28/15 17:38
+Dom,Country White Ale,Zipline Brewing Co.,Saison / Farmhouse Ale,4.6,0,United States,Lincoln,2,6/28/15 18:34
+Dom,Pinedrops IPA,Deschutes Brewery,American IPA,6.5,70,United States,Bend,2,6/30/15 21:15
+Dom,Mirror Pond Pale Ale,Deschutes Brewery,American Pale Ale,5,40,United States,Bend,4,7/4/15 14:03
+Dom,Ginger Peach Saison,Tallgrass Brewing Company,Saison / Farmhouse Ale,4.8,15,United States,Manhattan,4.25,7/7/15 20:52
+Dom,Low Level Lager,Soaring Wings Brewing,Pale Lager,5.47,8,United States,Springfield,3.5,7/11/15 14:19
+Dom,Raspberry Wheat,Soaring Wings Brewing,Hefeweizen,4,11,United States,Springfield,3.75,7/11/15 14:27
+Dom,Pegasus,Soaring Wings Brewing,Helles Lager,4.5,8,United States,Springfield,2.25,7/11/15 14:36
+Dom,Jack's Nut Brown,Soaring Wings Brewing,Gluten-Free,3.9,13,United States,Springfield,4,7/11/15 14:37
+Dom,Gooney Bird Double IPA,Soaring Wings Brewing,Imperial / Double IPA,8.6,70,United States,Springfield,3.5,7/11/15 14:48
+Dom,SR71 Blackbird Stout,Soaring Wings Brewing,Stout,6.2,25,United States,Springfield,4.25,7/11/15 15:09
+Dom,Dale's Pale Ale,Oskar Blues Brewery,American Pale Ale,6.5,65,United States,Longmont,4,7/14/15 19:14
+Dom,#9,Magic Hat Brewing Company,American Pale Ale,5.1,20,United States,South Burlington,5,7/18/15 18:55
+Dom,Jolly Watermelon Wheat,Locavore Beer Works,American Pale Wheat Ale,5.1,0,United States,Littleton,3.75,7/18/15 20:34
+Dom,Harley's Ol' One Eye Honey Wheat,City Star Brewing,American Pale Wheat Ale,5.5,22,United States,Berthoud,1.75,7/18/15 21:09
+Dom,Saddle Creek Wheat,Scriptown Brewing Company,American Pale Wheat Ale,4.5,0,United States,Omaha,3.25,7/21/15 17:08
+Dom,Castaway Coconut Porter,Upstream Brewing Company ,American Porter,5,11,United States,Omaha,3.5,7/21/15 17:09
+Dom,Off Duty IPA,Squatters Craft Beers,American IPA,6.5,55,United States,Salt Lake City,4,7/22/15 20:18
+Dom,Corona Light,Grupo Modelo S.A. de C.V.,American Light Lager,4,0,Mexico,Mexico City,2.25,7/24/15 23:47
+Dom,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,2,7/24/15 23:48
+Dom,Jug Thumper,Lucky Bucket Brewing Company,American Brown Ale,5.5,21,United States,La Vista,2.75,7/27/15 20:57
+Dom,Rogue Farms Good Chit Pilsner,Rogue Ales,Czech Pilsener,4.6,40,United States,Newport,2,7/28/15 20:36
+Dom,Traditional Dry,Angry Orchard Cider Company,Cider,5.5,0,United States,Cincinnati,3,7/29/15 12:40
+Dom,Tasting Room - Red IPA,Boulevard Brewing Co.,American IPA,5.8,75,United States,Kansas City,3.25,7/31/15 18:56
+Dom,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.25,8/4/15 20:09
+Dom,Seeradler Plus,Brauerei Max Leibinger,Radler,2.6,0,Germany,Ravensburg,4,8/4/15 20:46
+Dom,Triumph,Storz Brewing,Golden Lager,4.5,13,United States,Omaha,2.75,8/4/15 21:20
+Dom,Gold Crest Amber Ale,Storz Brewing,American Amber / Red Ale,5.5,34,United States,Omaha,3.75,8/4/15 21:23
+Dom,Mugs Pale Ale,Storz Brewing,American Pale Ale,5.8,40,United States,Omaha,2.25,8/4/15 21:45
+Dom,Gunsmoke,Storz Brewing,Smoked Beer,4.7,0,United States,Omaha,5,8/4/15 21:56
+Dom,Reindeer Red IPA,Storz Brewing,American IPA,0,0,United States,Omaha,2.25,8/4/15 21:57
+Dom,Original Sin Pear Cider,Original Sin ,Cider,4.5,0,United States,New York,3,8/6/15 20:24
+Dom,Berry Punch,Jack Daniel's Beverage Co.,Malt Beer,4.8,0,United States,Louisville,3,8/7/15 20:04
+Dom,#9,Magic Hat Brewing Company,American Pale Ale,5.1,20,United States,South Burlington,5,8/8/15 22:10
+Dom,Hail Mary Belgian-Style IPA,Cathedral Square Brewery,Belgian IPA,7,0,United States,Saint Louis,1,8/11/15 20:07
+Ben,Weihenstephaner Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,Hefeweizen,5.4,14,Germany,Freising,4,3/9/14 1:20
+Ben,Gulden Draak,Brouwerij Van Steenberge,Belgian Strong Dark Ale,10.5,4,Belgium,Ertvelde,4.5,3/9/14 1:52
+Ben,Carlsberg,Carlsberg Group,Euro Lager,5,0,Denmark,Copenhagen,4,3/11/14 0:07
+Ben,Corona Light,Grupo Modelo S.A. de C.V.,American Light Lager,4,0,Mexico,Mexico City,2,3/11/14 0:21
+Ben,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,3/11/14 18:14
+Ben,Smirnoff Ice Tropical Fruit!,Smirnoff,Malt Liquor ,4.5,0,United States,Park Royal,5,3/11/14 18:15
+Ben,Smirnoff Ice Green Apple Bite,Smirnoff,Malt Liquor ,5,0,United States,Park Royal,5,3/11/14 18:16
+Ben,Snowman Winter Ale,Putnam's Pub,Winter Ale,5.2,0,United States,Brooklyn,4,3/13/14 1:50
+Ben,Hacker-Pschorr MÌ_nchner Dunkel,Paulaner Gruppe,Dunkel Munich Lager,5,0,Germany,MÌ_nchen,3.5,3/17/14 18:33
+Ben,Easy Street Wheat,Odell Brewing Co.,American Pale Wheat Ale,4.6,0,United States,Fort Collins,4,3/17/14 22:23
+Ben,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,3.5,3/22/14 21:24
+Ben,Hazelnut Brown Nectar,Rogue Ales,American Brown Ale,5.6,33,United States,Newport,4,7/2/14 22:48
+Ben,French Kiss,Benson Brewery,Saison / Farmhouse Ale,7.1,0,United States,Omaha,4.5,7/2/14 22:51
+Ben,Armory XPA,Deschutes Brewery,American IPA,5.9,58,United States,Bend,4,7/2/14 23:10
+Ben,Old Rasputin,North Coast Brewing Company,Russian Imperial Stout,9,75,United States,Fort Bragg,4.5,7/5/14 23:35
+Ben,White Rascal,Avery Brewing Company,Witbier,5.6,22,United States,Boulder,4,7/11/14 14:48
+Ben,Hennepin Farmhouse Saison,Brewery Ommegang,Saison / Farmhouse Ale,7.7,24,United States,Cooperstown,4.5,7/11/14 18:53
+Ben,Grisette Light Saison,Farnam House Brewing Company,Saison / Farmhouse Ale,3.9,26,United States,Omaha,2,7/22/14 21:22
+Ben,Cherry Melomel,Moonstruck Meadery,Melomel,10.5,0,United States,Bellevue,4.5,7/22/14 21:29
+Ben,Extra Pale Ale (EPA),Summit Brewing Company,English Pale Ale,5.2,45,United States,St. Paul,3.5,7/24/14 19:53
+Ben,Domino Effect Transition Ale,Empyrean Brewing Co.,American Pale Wheat Ale,5.6,16,United States,Lincoln,3,8/13/14 22:10
+Ben,Country White Ale,Zipline Brewing Co.,Saison / Farmhouse Ale,4.6,0,United States,Lincoln,3.5,8/16/14 22:57
+Ben,Staropramen Premium,Pivovary Staropramen,Czech Pilsener,5,0,Czech Republic,Prague 5,4,8/17/14 18:43
+Ben,Le Merle,North Coast Brewing Company,Saison / Farmhouse Ale,7.9,0,United States,Fort Bragg,4,8/29/14 23:16
+Ben,Simpler Times Lager,Minhas Craft Brewery ,Pale Lager,6.2,0,United States,Monroe,1,8/30/14 17:30
+Ben,Hefe Weiss,Sprecher Brewing Company,Hefeweizen,4.2,11,United States,Glendale,4,9/6/14 18:58
+Ben,A Little Sumpin' Sumpin' Ale,Lagunitas Brewing Company,American Pale Wheat Ale,7.5,64,United States,Petaluma,4,9/26/14 15:25
+Ben,Warsteiner Premium Oktoberfest,Warsteiner,Oktoberfest/Festbier/MÌ_rzen,5.9,0,Germany,Warstein,3,9/26/14 18:23
+Ben,HofbrÌ_u Oktoberfestbier,Staatliches HofbrÌ_uhaus MÌ_nchen,Oktoberfest/Festbier/MÌ_rzen,6.3,0,Germany,MÌ_nchen,4,9/26/14 18:25
+Ben,Oktoberfest,Lucky Bucket Brewing Company,Oktoberfest/Festbier/MÌ_rzen,5.5,17,United States,La Vista,4.5,9/27/14 18:52
+Ben,Oktoberfest MÌ_rzen (USA Only),Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,2,Germany,MÌ_nchen,4.5,9/27/14 19:28
+Ben,Octoberfest,Free State Brewing Co.,Oktoberfest/Festbier/MÌ_rzen,5.4,25,United States,Lawrence,3,10/6/14 15:52
+Ben,Brewer's Duet,Benson Brewery,Milk / Sweet Stout,6.2,50,United States,Omaha,4,10/6/14 15:54
+Ben,Hacker-Pschorr Oktoberfest MÌ_rzen,Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,0,Germany,MÌ_nchen,3.5,10/8/14 23:20
+Ben,Shiner Holiday Cheer,Spoetzl Brewery,Dunkelweizen,5.4,0,United States,Shiner,3.5,10/9/14 17:05
+Ben,Samuel Adams OctoberFest,Boston Beer Company (Samuel Adams),Oktoberfest/Festbier/MÌ_rzen,5.3,16,United States,Boston,3.5,10/9/14 22:07
+Ben,Samuel Adams Harvest Saison,Boston Beer Company (Samuel Adams),Saison / Farmhouse Ale,6,25,United States,Boston,3.5,10/9/14 22:36
+Ben,Samuel Adams Harvest Pumpkin Ale,Boston Beer Company (Samuel Adams),Pumpkin / Yam Beer,5.7,0,United States,Boston,3.5,10/9/14 22:38
+Ben,Samuel Adams Boston Lager,Boston Beer Company (Samuel Adams),Vienna Lager,4.7,30,United States,Boston,3,10/9/14 22:47
+Ben,Blue Paddle,New Belgium Brewing Company,Czech Pilsener,4.8,0,United States,Fort Collins,3.5,10/10/14 16:06
+Ben,Nut Brown,Zipline Brewing Co.,English Brown Ale,5.8,0,United States,Lincoln,4,10/10/14 18:54
+Ben,Samuel Adams Cream Stout,Boston Beer Company (Samuel Adams),Milk / Sweet Stout,4.9,28,United States,Boston,3.5,10/13/14 17:59
+Ben,Sapporo Premium Beer,Sapporo Breweries,Japanese Rice Lager,5,4,Japan,Shibuya-ku,4,10/20/14 20:08
+Ben,Double Pilsner,Odell Brewing Co.,Imperial / Double Pilsner,8.1,0,United States,Fort Collins,4,10/21/14 18:20
+Ben,Autumn Surette,Crooked Stave Artisan Beer Project,Saison / Farmhouse Ale,6.2,0,United States,Denver,4.5,10/21/14 20:59
+Ben,Charles IPA,4 Noses Brewing Company,American IPA,7,49,United States,Broomfield,4,10/22/14 19:34
+Ben,Citra Wheat,4 Noses Brewing Company,American Pale Wheat Ale,6.3,20,United States,Broomfield,4,10/22/14 19:42
+Ben,Ritual Rivers Cocoa Coffee Porter,4 Noses Brewing Company,Porter,5.3,25,United States,Broomfield,4.5,10/22/14 20:04
+Ben,Red Baron,Bristol Brewing Company,Oktoberfest/Festbier/MÌ_rzen,5.8,27,United States,Colorado Springs,4,10/23/14 19:54
+Ben,Oktoberfest,Prost Brewing Company,Oktoberfest/Festbier/MÌ_rzen,5.7,0,United States,Denver,4,10/24/14 18:45
+Ben,Dunkel,Prost Brewing Company,Dunkel Munich Lager,5.2,0,United States,Denver,4,10/24/14 19:09
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,10/26/14 15:44
+Ben,Abbey,New Belgium Brewing Company,Belgian Dubbel,7,0,United States,Fort Collins,4,10/27/14 19:22
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,10/27/14 21:35
+Ben,Hard Root Beer,Sprecher Brewing Company,Root Beer,5,0,United States,Glendale,3,10/27/14 22:38
+Ben,Cardinal Pale Ale,Nebraska Brewing Company,American Pale Ale,6,42,United States,Papillion,4,10/28/14 21:08
+Ben,Hacker-Pschorr Oktoberfest MÌ_rzen,Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,0,Germany,MÌ_nchen,3.5,10/30/14 19:08
+Ben,312 Urban Wheat Ale,Goose Island Beer Co.,American Pale Wheat Ale,4.2,18,United States,Chicago,3,10/31/14 18:24
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,10/31/14 21:30
+Ben,Levity Amber Ale,Odell Brewing Co.,American Amber / Red Ale,5.1,0,United States,Fort Collins,4.5,11/1/14 17:51
+Ben,Colette Farmhouse Ale,Great Divide Brewing Company,Saison / Farmhouse Ale,7.3,0,United States,Denver,4,11/1/14 19:03
+Ben,Saison Harvest Ale,New Belgium Brewing Company,Saison / Farmhouse Ale,6.5,36,United States,Fort Collins,3.5,11/3/14 17:13
+Ben,Yeti,Great Divide Brewing Company,American Imperial / Double Stout,9.5,75,United States,Denver,5,11/3/14 18:46
+Ben,The Carhartt Woodsman,New Holland Brewing Company,American Pale Ale,4.5,0,United States,Holland,4.5,11/4/14 17:38
+Ben,The Carhartt Woodsman,New Holland Brewing Company,American Pale Ale,4.5,0,United States,Holland,4.5,11/4/14 18:13
+Ben,Abbey,New Belgium Brewing Company,Belgian Dubbel,7,0,United States,Fort Collins,4,11/5/14 18:43
+Ben,Hopluia,Spilker Ales,Belgian Pale Ale,6.5,0,United States,Cortland,4,11/5/14 23:34
+Ben,Barrel Aged Harumeku,Zipline Brewing Co.,Saison / Farmhouse Ale,8.5,0,United States,Lincoln,5,11/7/14 22:05
+Ben,Rebel IPA,Boston Beer Company (Samuel Adams),American IPA,6.5,45,United States,Boston,3,11/8/14 18:22
+Ben,Hacker-Pschorr Sternweisse,Paulaner Gruppe,Hefeweizen,5.5,0,Germany,MÌ_nchen,4,11/8/14 21:04
+Ben,Naughty Quaker Oatmeal Stout (Select Series),Abita Brewing Company,Oatmeal Stout,6.5,0,United States,Abita Springs,3.5,11/8/14 23:19
+Ben,Shake Chocolate Porter,Boulder Beer Company,American Porter,5.9,39,United States,Boulder,4,11/9/14 0:01
+Ben,Creamy Dark,Jacob Leinenkugel Brewing Company,Black Lager,4.9,20,United States,Chippewa Falls,3,11/10/14 22:20
+Ben,Porter,Founders Brewing Co.,American Porter,6.5,45,United States,Grand Rapids,4,11/11/14 18:11
+Ben,1554,New Belgium Brewing Company,Black Lager,5.6,21,United States,Fort Collins,3,11/11/14 21:35
+Ben,Hacker-Pschorr Hefe Weisse,Paulaner Gruppe,Hefeweizen,5.5,0,Germany,MÌ_nchen,3,11/13/14 0:28
+Ben,HofbrÌ_u Dunkel / Dunkel Gold,Staatliches HofbrÌ_uhaus MÌ_nchen,Dunkel Munich Lager,5.5,22,Germany,MÌ_nchen,3.5,11/13/14 0:28
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,11/13/14 22:00
+Ben,Collaboration No. 4 - Saison,Boulevard Brewing Co.,Saison / Farmhouse Ale,7.3,28,United States,Kansas City,4.5,11/14/14 23:17
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,11/16/14 17:16
+Ben,Accumulation,New Belgium Brewing Company,White IPA,6.2,70,United States,Fort Collins,3.5,11/18/14 22:08
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,11/18/14 22:19
+Ben,Jubelale,Deschutes Brewery,Winter Ale,6.7,60,United States,Bend,3,11/19/14 17:20
+Ben,Salted Belgian Chocolate Stout (Lips of Faith),New Belgium Brewing Company,Stout,9,35,United States,Fort Collins,4,11/21/14 22:22
+Ben,Hibernation Ale,Great Divide Brewing Company,Old Ale,8.7,0,United States,Denver,4.5,11/26/14 18:42
+Ben,Face Down Brown,Telluride Brewing Company,American Brown Ale,5.7,0,United States,Telluride,3.5,11/26/14 22:06
+Ben,Milk Stout Nitro,Left Hand Brewing Company,Milk / Sweet Stout,6,25,United States,Longmont,4.5,11/26/14 22:35
+Ben,Avalanche Amber Ale,Breckenridge Brewery,American Amber / Red Ale,4.4,19,United States,Denver,3,11/29/14 13:19
+Ben,Hibernation Ale,Great Divide Brewing Company,Old Ale,8.7,0,United States,Denver,4.5,11/29/14 14:00
+Ben,Mass Transit Ale,Bristol Brewing Company,American Amber / Red Ale,5.1,0,United States,Colorado Springs,3,11/29/14 19:10
+Ben,Frambozen,New Belgium Brewing Company,Fruit Beer,6.5,0,United States,Fort Collins,3,11/29/14 20:12
+Ben,St. Bernardus Christmas Ale,Brouwerij St. Bernardus,Belgian Quad,10,0,Belgium,8978 Watou,4.5,12/5/14 19:29
+Ben,Anchor Steam Beer,Anchor Brewing Company,California Common,4.9,35,United States,San Francisco,4,12/6/14 18:16
+Ben,Merry Christmas & Happy New Year (Our Special Ale) (2014),Anchor Brewing Company,Winter Warmer,5.5,0,United States,San Francisco,3,12/6/14 19:50
+Ben,Copper Alt,Zipline Brewing Co.,Altbier,5.2,0,United States,Lincoln,3.5,12/8/14 18:28
+Ben,Hibernation Ale,Great Divide Brewing Company,Old Ale,8.7,0,United States,Denver,4.5,12/11/14 16:16
+Ben,First One Down,Wasatch Brewery,Winter Warmer,7.1,0,United States,Park City,3,12/11/14 17:48
+Ben,Claymore Scotch Ale,Great Divide Brewing Company,Scotch Ale / Wee Heavy,7.7,0,United States,Denver,4,12/11/14 19:32
+Ben,Vienna Lager,Devils Backbone Brewing Company,Vienna Lager,4.9,4,United States,Roseland,3.5,12/12/14 16:12
+Ben,Christmas Ale,Breckenridge Brewery,Winter Warmer,7.4,22,United States,Denver,3,12/12/14 16:51
+Ben,Mojo India Pale Ale (IPA),Boulder Beer Company,American IPA,7.2,70,United States,Boulder,4,12/12/14 23:36
+Ben,Hacker-Pschorr Hefe Weisse,Paulaner Gruppe,Hefeweizen,5.5,0,Germany,MÌ_nchen,3.5,12/13/14 14:35
+Ben,Fifty Niner,Odell Brewing Co.,Golden Ale,10,0,United States,Fort Collins,4,12/13/14 18:47
+Ben,Claymore Scotch Ale,Great Divide Brewing Company,Scotch Ale / Wee Heavy,7.7,0,United States,Denver,4,12/14/14 23:25
+Ben,Ring Neck Braun Ale,Brau Brothers Brewing Company,American Brown Ale,6.5,25,United States,Marshall,3.5,12/15/14 19:53
+Ben,Hibernation Ale,Great Divide Brewing Company,Old Ale,8.7,0,United States,Denver,4.5,12/16/14 20:55
+Ben,Birra Moretti,Birra Moretti,Pale Lager,4.6,0,Italy,Udine,3.5,12/16/14 21:21
+Ben,IPA,Lagunitas Brewing Company,American IPA,6.2,46,United States,Petaluma,3.5,12/18/14 20:51
+Ben,Guinness Blonde American Lager,Guinness,Blonde Lager,5,21,Ireland,Dublin 8,2.5,12/18/14 22:40
+Ben,IPA,Odell Brewing Co.,American IPA,7,60,United States,Fort Collins,4,12/20/14 20:01
+Ben,Organic Porter,Eel River Brewing Co.,American Porter,5.8,19,United States,Fortuna,3.5,12/21/14 17:40
+Ben,Hercules Double IPA,Great Divide Brewing Company,Imperial / Double IPA,10,85,United States,Denver,5,12/22/14 21:10
+Ben,India Pale Ale (IPA),Avery Brewing Company,American IPA,6.5,69,United States,Boulder,3,12/23/14 13:02
+Ben,Craft Lager,Upslope Brewing Company,Pale Lager,4.8,15,United States,Boulder,3.5,12/23/14 21:00
+Ben,Pale Ale,Upslope Brewing Company,American Pale Ale,5.8,36,United States,Boulder,3.5,12/24/14 14:28
+Ben,Chainbreaker White IPA,Deschutes Brewery,White IPA,5.6,55,United States,Bend,4,12/24/14 19:03
+Ben,India Pale Ale,Upslope Brewing Company,American IPA,7.2,65,United States,Boulder,3.5,12/25/14 18:23
+Ben,Hercules Double IPA,Great Divide Brewing Company,Imperial / Double IPA,10,85,United States,Denver,5,12/25/14 19:55
+Ben,Sun Drenched Exploratory Ale,Denver Beer Co,American Pale Ale,5,0,United States,Denver,3.5,12/26/14 15:40
+Ben,Wheat,Backcountry Brewery,American Pale Wheat Ale,4.6,0,United States,Frisco,3.5,12/26/14 18:11
+Ben,Brown Ale,Upslope Brewing Company,American Brown Ale,6.7,45,United States,Boulder,3.5,12/27/14 17:53
+Ben,India Pale Ale,Upslope Brewing Company,American IPA,7.2,65,United States,Boulder,3.5,12/27/14 21:34
+Ben,Foreign Style Stout,Upslope Brewing Company,Foreign / Export Stout,6.9,30,United States,Boulder,3.5,12/27/14 21:34
+Ben,Wheat,Backcountry Brewery,American Pale Wheat Ale,4.6,0,United States,Frisco,3.5,12/27/14 21:34
+Ben,Agave Wheat,Breckenridge Brewery,American Pale Wheat Ale,4.2,9,United States,Denver,3.5,12/29/14 15:02
+Ben,Mountain Standard Double Black IPA,Odell Brewing Co.,Imperial / Double Black IPA,9.5,60,United States,Fort Collins,4,12/31/14 17:16
+Ben,Isolation Ale,Odell Brewing Co.,Winter Warmer,6.1,0,United States,Fort Collins,3.5,12/31/14 18:59
+Ben,Ichiban (Ichiban Shibori),Kirin Brewery Company,Pale Lager,4.95,0,Japan,Nakano-ku,3,1/3/15 19:32
+Ben,IPA,Odell Brewing Co.,American IPA,7,60,United States,Fort Collins,4,1/5/15 19:32
+Ben,Winter Warlock Oatmeal Stout,Bristol Brewing Company,Oatmeal Stout,6,0,United States,Colorado Springs,4,1/6/15 19:39
+Ben,Winter Wheat,Great Divide Brewing Company,Witbier,0,0,United States,Denver,4,1/7/15 14:46
+Ben,Rye 25 Pale Ale,Denver Beer Co,Rye Beer,0,0,United States,Denver,3.5,1/7/15 19:00
+Ben,Hercules Double IPA,Great Divide Brewing Company,Imperial / Double IPA,10,85,United States,Denver,5,1/14/15 18:04
+Ben,All Day IPA,Founders Brewing Co.,Session IPA,4.7,42,United States,Grand Rapids,3.5,1/14/15 18:33
+Ben,Mojo India Pale Ale (IPA),Boulder Beer Company,American IPA,7.2,70,United States,Boulder,4,1/15/15 12:13
+Ben,Hibernation Ale,Great Divide Brewing Company,Old Ale,8.7,0,United States,Denver,4.5,1/16/15 14:42
+Ben,Colorado Native IPL,AC Golden Brewing Co.,IPL (India Pale Lager),6.5,0,United States,Golden,4,1/16/15 20:27
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,3.5,1/17/15 16:33
+Ben,Infinite Wit,Nebraska Brewing Company,Witbier,4.4,9,United States,Papillion,3.5,1/17/15 18:54
+Ben,Lone Tree IPA,Scriptown Brewing Company,American IPA,4,48,United States,Omaha,4,1/17/15 22:01
+Ben,Dubbel Trubbel,Scriptown Brewing Company,Belgian Dubbel,6.5,20,United States,Omaha,3.5,1/17/15 22:40
+Ben,Peach Grand Cru,Great Divide Brewing Company,Belgian Strong Pale Ale,12,0,United States,Denver,4.5,1/18/15 20:00
+Ben,Hefeweizen Wheat,SanTan Brewing Company,Hefeweizen,5,15,United States,Chandler,3,1/22/15 16:56
+Ben,Hopadillo IPA,Karbach Brewing Co,American IPA,6.6,65,United States,Houston,3.5,1/23/15 17:51
+Ben,60 Minute IPA,Dogfish Head Craft Brewery,American IPA,6,60,United States,Milton,3.5,1/23/15 20:09
+Ben,Lone Star Beer,Pabst Brewing Company,North American Adjunct Lager,4.72,0,United States,Woodridge,1,1/23/15 21:41
+Ben,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,2/2/15 22:14
+Ben,Scrimshaw Pilsner,North Coast Brewing Company,German Pilsner,4.7,22,United States,Fort Bragg,3.5,2/2/15 22:47
+Ben,IPA,Odell Brewing Co.,American IPA,7,60,United States,Fort Collins,4,2/8/15 21:21
+Ben,Arminius Hoppy Pale Lager,August Schell Brewing Company,Dortmunder / Export Lager,6.5,0,United States,New Ulm,2.5,2/10/15 15:42
+Ben,Nooner Pilsner,Sierra Nevada Brewing Co.,German Pilsner,5.2,38,United States,Chico,3,2/10/15 22:32
+Ben,Hopluia,Spilker Ales,Belgian Pale Ale,6.5,0,United States,Cortland,4,2/10/15 23:00
+Ben,Weihenstephaner Hefeweissbier Dunkel,Bayerische Staatsbrauerei Weihenstephan,Dunkelweizen,5.3,14,Germany,Freising,4,2/11/15 23:42
+Ben,Weihenstephaner Hefeweissbier Dunkel,Bayerische Staatsbrauerei Weihenstephan,Dunkelweizen,5.3,14,Germany,Freising,4,2/12/15 0:42
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,2/13/15 12:42
+Ben,India Pale Lager,Brickway Brewery & Distillery,IPL (India Pale Lager),5.5,0,United States,Omaha,3,2/13/15 16:36
+Ben,Belgian Tripel,Brickway Brewery & Distillery,Belgian Tripel,0,0,United States,Omaha,4,2/13/15 17:22
+Ben,Hoegaarden Blanche,Brouwerij van Hoegaarden,Witbier,4.9,0,Belgium,Hoegaarden,3.5,2/13/15 19:48
+Ben,Friek,Odell Brewing Co.,American Wild Ale,6.5,0,United States,Fort Collins,4,2/13/15 20:39
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,3.5,2/13/15 21:42
+Ben,Colorado Native Amber Lager,AC Golden Brewing Co.,American Amber / Red Lager,5.5,38,United States,Golden,3.5,2/13/15 22:25
+Ben,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,3.5,2/13/15 23:29
+Ben,Chocolate Pistachio Milk Porter,Infusion Brewing Company,Porter,5.8,33,United States,Benson,3.5,2/14/15 13:30
+Ben,Delirium Tremens,Brouwerij Huyghe,Belgian Blonde / Golden,8.5,26,Belgium,Melle,4,2/14/15 13:35
+Ben,Apricot Ale,Pyramid Breweries,Fruit Beer,5.1,11,United States,Seattle,3.5,2/14/15 13:38
+Ben,Lone Tree IPA,Scriptown Brewing Company,American IPA,4,48,United States,Omaha,4,2/14/15 14:25
+Ben,Old Chub,Oskar Blues Brewery,Scotch Ale / Wee Heavy,8,0,United States,Longmont,4.5,2/14/15 15:30
+Ben,Chocolate Ale,Boulevard Brewing Co.,Herbed/Spiced Beer,9.1,24,United States,Kansas City,4.5,2/14/15 19:26
+Ben,Chocolate Ale,Boulevard Brewing Co.,Herbed/Spiced Beer,9.1,24,United States,Kansas City,4.5,2/14/15 19:59
+Ben,Saison Noir,Peace Tree Brewing Company,Dark Ale,7.5,0,United States,Knoxville,4,2/15/15 22:05
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,2/16/15 16:41
+Ben,Spring Break,Lucky Bucket Brewing Company,Saison / Farmhouse Ale,5.3,18,United States,La Vista,3.5,2/16/15 20:12
+Ben,Old Foghorn,Anchor Brewing Company,English Barleywine,8.8,0,United States,San Francisco,3.5,2/16/15 20:43
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,2/18/15 17:15
+Ben,Pineapple & Serrano IPA,Benson Brewery,American IPA,8.2,105,United States,Omaha,4,2/19/15 17:37
+Ben,Oktoberfest MÌ_rzen (USA Only),Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,2,Germany,MÌ_nchen,4.5,2/19/15 19:12
+Ben,Weihenstephaner Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,Hefeweizen,5.4,14,Germany,Freising,4,2/19/15 21:09
+Ben,EOS Hefeweizen,Nebraska Brewing Company,Hefeweizen,5.2,13,United States,Papillion,3.5,2/20/15 20:20
+Ben,Vienna MÌ_rzen,Squatters Craft Beers,Oktoberfest/Festbier/MÌ_rzen,4,0,United States,Salt Lake City,3.5,2/20/15 20:55
+Ben,The Duke,Granite City Food & Brewery,English Pale Ale,5.2,59,United States,Minneapolis,2.5,2/21/15 18:44
+Ben,The Two Pull,Granite City Food & Brewery,North American Adjunct Lager,4.5,0,United States,Minneapolis,3,2/21/15 19:39
+Ben,Dale's Pale Ale,Oskar Blues Brewery,American Pale Ale,6.5,65,United States,Longmont,4.5,2/21/15 21:56
+Ben,Colette Farmhouse Ale,Great Divide Brewing Company,Saison / Farmhouse Ale,7.3,0,United States,Denver,4,2/24/15 19:51
+Ben,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,4.5,2/25/15 16:07
+Ben,Natural Light,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,1,2/25/15 23:42
+Ben,Natural Light,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,1,2/26/15 0:07
+Ben,Natural Light,Anheuser-Busch,American Light Lager,4.2,0,United States,St. Louis,1,2/26/15 0:40
+Ben,Cornstalker Dark Wheat,Thunderhead Brewing Company,Dunkelweizen,5.2,0,United States,Kearney,2.5,2/26/15 17:52
+Ben,Miller High Life,Miller Brewing Company,North American Adjunct Lager,5,0,United States,Milwaukee,0.5,2/27/15 21:30
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,2/27/15 22:15
+Ben,Heartland Wheat,Lucky Bucket Brewing Company,American Pale Wheat Ale,4.8,15,United States,La Vista,3,2/28/15 15:06
+Ben,Spring Break,Lucky Bucket Brewing Company,Saison / Farmhouse Ale,5.3,18,United States,La Vista,3.5,2/28/15 15:27
+Ben,The Raven,Lucky Bucket Brewing Company,Black IPA / Cascadian Dark Ale,7.2,75,United States,La Vista,4,2/28/15 16:13
+Ben,Up In Smoke,Lucky Bucket Brewing Company,Chili Beer,8,14,United States,La Vista,4,2/28/15 16:21
+Ben,Total Recall,Lucky Bucket Brewing Company,Belgian Tripel,9,12,United States,La Vista,,2/28/15 16:33
+Ben,Blaison,Lucky Bucket Brewing Company,Saison / Farmhouse Ale,9,24,United States,La Vista,3,2/28/15 16:38
+Ben,Jug Thumper,Lucky Bucket Brewing Company,American Brown Ale,5.5,21,United States,La Vista,3.5,2/28/15 16:43
+Ben,Jug Thumper,Lucky Bucket Brewing Company,American Brown Ale,5.5,21,United States,La Vista,4,2/28/15 18:32
+Ben,Shiner Bock,Spoetzl Brewery,Bock,4.4,13,United States,Shiner,3.5,3/11/15 21:03
+Ben,Colette Farmhouse Ale,Great Divide Brewing Company,Saison / Farmhouse Ale,7.3,0,United States,Denver,4,3/15/15 20:22
+Ben,Hefevicen,Gifford Park Brewing Co.,Hefeweizen,5,20,United States,,3,3/15/15 20:56
+Ben,Blonde Fatale,Peace Tree Brewing Company,Blonde Ale,8.5,0,United States,Knoxville,4,3/16/15 17:19
+Ben,Chocolate Ale,Boulevard Brewing Co.,Herbed/Spiced Beer,9.1,24,United States,Kansas City,4.5,3/16/15 19:23
+Ben,Pilsner,Brickway Brewery & Distillery,Pilsner,4.8,0,United States,Omaha,3,3/17/15 13:08
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,3/17/15 20:34
+Ben,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,3.5,3/17/15 20:56
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,3/18/15 15:57
+Ben,Oktoberfest MÌ_rzen (USA Only),Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,2,Germany,MÌ_nchen,4.5,3/19/15 0:00
+Ben,Paulaner Hefe-WeiÌÙbier Dunkel,Paulaner Gruppe,Dunkelweizen,5.3,12,Germany,MÌ_nchen,4,3/19/15 1:12
+Ben,Paulaner Hefe-WeiÌÙbier Dunkel,Paulaner Gruppe,Dunkelweizen,5.3,12,Germany,MÌ_nchen,4,3/19/15 1:12
+Ben,Hefevicen,Gifford Park Brewing Co.,Hefeweizen,5,20,United States,,3,3/19/15 23:12
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,3/20/15 18:09
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,3/20/15 18:17
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,3/20/15 18:46
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,3/20/15 18:52
+Ben,Cappuccino Stout,Lagunitas Brewing Company,American Imperial / Double Stout,9.2,30,United States,Petaluma,4,3/21/15 22:42
+Ben,Spring Belle,Boulevard Brewing Co.,Saison / Farmhouse Ale,6.2,35,United States,Kansas City,3,3/21/15 23:19
+Ben,Apricot Ale,Pyramid Breweries,Fruit Beer,5.1,11,United States,Seattle,3.5,3/21/15 23:32
+Ben,ÅÈywiec Porter,Grupa ÅÈywiec,Baltic Porter,9.5,45,Poland,,3.5,3/22/15 14:01
+Ben,ÅÈywiec,Grupa ÅÈywiec,Pale Lager,5.6,0,Poland,,3,3/22/15 14:03
+Ben,Hop Hunter IPA,Sierra Nevada Brewing Co.,American IPA,6.2,60,United States,Chico,3,3/22/15 20:56
+Ben,Duchesse de Bourgogne,Brouwerij Verhaeghe,Flanders Red Ale,6.2,0,Belgium,Vichte,1,3/22/15 21:19
+Ben,PÌ»che Mel Bush (Scaldis PÌ»che Mel),Brasserie Dubuisson,Fruit Beer,8.5,16,Belgium,Pipaix,4,3/22/15 21:20
+Ben,Vanderghinste Oud Bruin,Omer Vander Ghinste Brewery,Flanders Red Ale,5.5,0,Belgium,Bellegem,3,3/22/15 21:22
+Ben,GarÌ_n Nr. 19,Borg BrugghÌ_s,Russian Imperial Stout,11.5,45,Iceland,"ReykjavÌ_k,",3,3/22/15 21:25
+Ben,Snowcat Coffee Stout,Crazy Mountain Brewing Company,American Stout,5.9,57,United States,Edwards,2.5,3/22/15 21:45
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,4,3/22/15 21:50
+Ben,Farrell's Irish Red,Nebraska Brewing Company,Irish Red Ale,5,22,United States,Papillion,3,3/22/15 21:59
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,3/23/15 19:17
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,3/23/15 21:10
+Ben,Sobek & Set,Finch's Beer Company,Black IPA / Cascadian Dark Ale,8,80,United States,Chicago,4,3/23/15 22:46
+Ben,Trainwreck Imperial Red,Upstream Brewing Company ,Imperial / Double Red Ale,8.6,70,United States,Omaha,2.5,3/23/15 22:48
+Ben,Spring Belle,Boulevard Brewing Co.,Saison / Farmhouse Ale,6.2,35,United States,Kansas City,2.5,3/23/15 23:25
+Ben,Apricot Ale,Pyramid Breweries,Fruit Beer,5.1,11,United States,Seattle,4,3/23/15 23:26
+Ben,India Red Ale,Zipline Brewing Co.,American IPA,7.1,65,United States,Lincoln,3,3/24/15 20:36
+Ben,Tank 7 Farmhouse Ale,Boulevard Brewing Co.,Saison / Farmhouse Ale,8.5,38,United States,Kansas City,4,3/24/15 21:29
+Ben,Lugene Chocolate Milk Stout,Odell Brewing Co.,Milk / Sweet Stout,8.5,0,United States,Fort Collins,4,3/24/15 21:48
+Ben,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,3.5,3/24/15 22:29
+Ben,Rye Porter,Peace Tree Brewing Company,Porter,6,0,United States,Knoxville,3.5,3/25/15 17:00
+Ben,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,4.5,3/25/15 23:12
+Ben,Andechser Doppelbock Dunkel,Klosterbrauerei Andechs,Doppelbock ,7.1,0,Germany,Andechs,3,3/25/15 23:30
+Ben,HofbrÌ_u Original,Staatliches HofbrÌ_uhaus MÌ_nchen,Helles Lager,5.1,0,Germany,MÌ_nchen,4.5,3/26/15 0:00
+Ben,Schell's Bock,August Schell Brewing Company,Bock,6.1,0,United States,New Ulm,2.5,3/26/15 18:19
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,4,3/27/15 23:19
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,4,3/27/15 23:58
+Ben,Hopluia,Spilker Ales,Belgian Pale Ale,6.5,0,United States,Cortland,4,3/28/15 17:05
+Ben,Twin Turbo,Abita Brewing Company,Imperial / Double Brown Ale,7.2,0,United States,Abita Springs,2.5,3/28/15 17:11
+Ben,Colette Farmhouse Ale,Great Divide Brewing Company,Saison / Farmhouse Ale,7.3,0,United States,Denver,4,3/29/15 18:15
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,4,3/29/15 20:01
+Ben,Sunday Morning Coffee Strong Ale,Renegade Brewing Company,American Strong Ale,6.8,0,United States,Denver,4,3/31/15 21:19
+Ben,[Redacted] IPA,Renegade Brewing Company,American IPA,7,60,United States,Denver,3.5,3/31/15 21:48
+Ben,Sunday Morning Coffee Strong Ale,Renegade Brewing Company,American Strong Ale,6.8,0,United States,Denver,4,3/31/15 22:12
+Ben,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,4/1/15 18:13
+Ben,Colette Farmhouse Ale,Great Divide Brewing Company,Saison / Farmhouse Ale,7.3,0,United States,Denver,4,4/1/15 20:02
+Ben,Endpoint Triple IPA,Renegade Brewing Company,Triple IPA,11.2,100,United States,Denver,4,4/2/15 16:02
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,4/3/15 15:48
+Ben,Belgian White,Shock Top Brewing Co.,Witbier,5.2,0,United States,St Louis,2.5,4/3/15 19:08
+Ben,Belgian White,Shock Top Brewing Co.,Witbier,5.2,0,United States,St Louis,2.5,4/3/15 19:29
+Ben,Balashi Beer,Brouwerij Nacional Balashi,North American Adjunct Lager,5,0,Aruba,Balashi,3,4/5/15 21:30
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,4,4/6/15 20:08
+Ben,Wood Chipper IPA,Fargo Brewing Company,American IPA,6.7,70,United States,Fargo,3,4/7/15 15:40
+Ben,Wood Chipper IPA,Fargo Brewing Company,American IPA,6.7,70,United States,Fargo,3,4/7/15 15:42
+Ben,Deviant Dale's,Oskar Blues Brewery,American IPA,8,85,United States,Longmont,4.5,4/7/15 19:51
+Ben,Butcher Block Brown,Infusion Brewing Company,American Brown Ale,6.2,37,United States,Benson,4.5,4/7/15 20:28
+Ben,Deviant Dale's,Oskar Blues Brewery,American IPA,8,85,United States,Longmont,4.5,4/7/15 20:52
+Ben,Stone Enjoy By 04.20.15 IPA,Stone Brewing Co.,Imperial / Double IPA,9.4,88,United States,Escondido,2.5,4/7/15 21:13
+Ben,Oatmeal IPA (Hop Kitchen),New Belgium Brewing Company,American IPA,6.5,75,United States,Fort Collins,3,4/7/15 21:40
+Ben,SÌ_nner KÌ_lsch,SÌ_nner Brauerei und Brennerei,KÌ_lsch,4.8,19,Germany,KÌ_ln,4,4/9/15 0:14
+Ben,SÌ_nner KÌ_lsch,SÌ_nner Brauerei und Brennerei,KÌ_lsch,4.8,19,Germany,KÌ_ln,4,4/9/15 0:16
+Ben,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,4,4/9/15 18:18
+Ben,Anchor Saison Spring Ale,Anchor Brewing Company,Saison / Farmhouse Ale,7.2,32,United States,San Francisco,3.5,4/10/15 16:01
+Ben,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,3.5,4/10/15 18:05
+Ben,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,3.5,4/10/15 18:31
+Ben,Rampant,New Belgium Brewing Company,Imperial / Double IPA,8.5,85,United States,Fort Collins,3.5,4/11/15 13:03
+Ben,ˆÇê-aha IPA,Benson Brewery,American IPA,7.1,80,United States,Omaha,4,4/11/15 19:08
+Ben,Country Kolsch,Benson Brewery,KÌ_lsch,5,20,United States,Omaha,3,4/11/15 19:50
+Ben,Mojo India Pale Ale (IPA),Boulder Beer Company,American IPA,7.2,70,United States,Boulder,4,4/11/15 21:24
+Ben,Fresh Squeezed IPA,Deschutes Brewery,American IPA,6.4,60,United States,Bend,4,4/11/15 22:15
+Ben,Mama's Little Yella Pils,Oskar Blues Brewery,Czech Pilsener,5.3,35,United States,Longmont,3.5,4/11/15 22:16
+Ben,Trout Slayer,Big Sky Brewing Company,American Pale Wheat Ale,5,35,United States,Missoula,4,4/13/15 16:49
+Ben,Loose Leaf Session Ale,Odell Brewing Co.,Session IPA,4.5,0,United States,Fort Collins,3.5,4/13/15 18:55
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,4/13/15 22:13
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,4/13/15 22:23
+Ben,Yeti,Great Divide Brewing Company,American Imperial / Double Stout,9.5,75,United States,Denver,5,4/14/15 23:18
+Ben,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,4/16/15 0:24
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,4/16/15 0:56
+Ben,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,4,4/16/15 15:59
+Ben,Saison-Brett,Boulevard Brewing Co.,Saison / Farmhouse Ale,8.5,38,United States,Kansas City,4,4/16/15 22:43
+Ben,India Pale Lager,Brickway Brewery & Distillery,IPL (India Pale Lager),5.5,0,United States,Omaha,4,4/17/15 16:54
+Ben,Loose Leaf Session Ale,Odell Brewing Co.,Session IPA,4.5,0,United States,Fort Collins,3.5,4/18/15 22:05
+Ben,Steel Reserve 211 High Gravity Lager,Steel Brewing Co,Malt Liquor ,8.1,0,United States,Irwindale,1,4/19/15 21:41
+Ben,Steel Reserve 211 High Gravity Lager,Steel Brewing Co,Malt Liquor ,8.1,0,United States,Irwindale,1,4/19/15 22:29
+Ben,Warsteiner Premium Dunkel,Warsteiner,Dunkel Munich Lager,4.8,0,Germany,Warstein,3.5,4/20/15 21:28
+Ben,Loose Leaf Session Ale,Odell Brewing Co.,Session IPA,4.5,0,United States,Fort Collins,3.5,4/21/15 22:41
+Ben,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,4/22/15 18:28
+Ben,Rabid Redbird,Farnam House Brewing Company,American Pale Ale,7.5,28,United States,Omaha,3.5,4/22/15 20:05
+Ben,Hop Harvest Saison,Farnam House Brewing Company,Saison / Farmhouse Ale,6,40,United States,Omaha,3,4/22/15 20:12
+Ben,Belgian IPA,Farnam House Brewing Company,Belgian IPA,7.5,65,United States,Omaha,3,4/22/15 20:14
+Ben,Oud Bruin (Old Brown),Farnam House Brewing Company,Flanders Oud Bruin,7,22,United States,Omaha,4,4/22/15 20:17
+Ben,BiÌ¬re de Garde,Farnam House Brewing Company,BiÌ¬re de Garde,6.3,22,United States,Omaha,3.5,4/22/15 20:20
+Ben,Taft American Stout,Farnam House Brewing Company,American Stout,6.4,52,United States,Omaha,4,4/22/15 20:22
+Ben,Taft American Stout,Farnam House Brewing Company,American Stout,6.4,52,United States,Omaha,4,4/22/15 20:23
+Ben,Hoppy Maibock,Farnam House Brewing Company,Maibock/Helles Bock,7,45,United States,Omaha,3,4/22/15 20:25
+Ben,Keller German Lager Dry Hopped,Farnam House Brewing Company,Kellerbier / Zwickelbier,0,0,United States,Omaha,3.5,4/22/15 20:29
+Ben,Winter Wheat Wine,Farnam House Brewing Company,Wheat Wine,8.5,61,United States,Omaha,1,4/22/15 20:32
+Ben,Coors Original,Coors Brewing Company,North American Adjunct Lager,5,0,United States,Golden,3,4/23/15 17:30
+Ben,Blonde Fatale,Peace Tree Brewing Company,Blonde Ale,8.5,0,United States,Knoxville,4,4/24/15 15:40
+Ben,Budweiser,Anheuser-Busch,North American Adjunct Lager,5,0,United States,St. Louis,2.5,4/24/15 19:36
+Ben,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,4.5,4/25/15 12:35
+Ben,KC Pils,Boulevard Brewing Co.,Pilsner,4.8,16,United States,Kansas City,3.5,4/25/15 14:04
+Ben,Tasting Room - Blonde Ale,Boulevard Brewing Co.,American Blonde Ale,5.8,24,United States,Kansas City,4,4/25/15 14:05
+Ben,Pop-Up Session I.P.A.,Boulevard Brewing Co.,Session IPA,4.3,41,United States,Kansas City,3.5,4/25/15 14:12
+Ben,The Calling,Boulevard Brewing Co.,Imperial / Double IPA,8.5,75,United States,Kansas City,4,4/25/15 14:22
+Ben,Smirnoff Ice (US Only),Smirnoff,Malt Liquor ,4.5,0,United States,Park Royal,0.5,4/27/15 14:01
+Ben,IPA,Nebraska Brewing Company,American IPA,6.9,72,United States,Papillion,3.25,4/28/15 16:56
+Ben,Emergent White IPA,Boulder Beer Company,White IPA,6.1,55,United States,Boulder,3.75,4/29/15 16:02
+Ben,Anchor Steam Beer,Anchor Brewing Company,California Common,4.9,35,United States,San Francisco,4,4/29/15 19:31
+Ben,Easy Street Wheat,Odell Brewing Co.,American Pale Wheat Ale,4.6,0,United States,Fort Collins,4,4/30/15 13:13
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,4/30/15 16:34
+Ben,Dos Equis Amber,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,Vienna Lager,4.7,0,Mexico,Monterrey,3,4/30/15 17:22
+Ben,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,4/30/15 19:03
+Ben,312 Urban Wheat Ale,Goose Island Beer Co.,American Pale Wheat Ale,4.2,18,United States,Chicago,3,4/30/15 19:34
+Ben,312 Urban Wheat Ale,Goose Island Beer Co.,American Pale Wheat Ale,4.2,18,United States,Chicago,3,4/30/15 20:21
+Ben,Hefevicen,Gifford Park Brewing Co.,Hefeweizen,5,20,United States,,3,4/30/15 21:49
+Ben,[Redacted] IPA,Renegade Brewing Company,American IPA,7,60,United States,Denver,3.5,5/1/15 16:30
+Ben,ˆÇê-aha IPA,Benson Brewery,American IPA,7.1,80,United States,Omaha,4,5/1/15 19:36
+Ben,Mojo India Pale Ale (IPA),Boulder Beer Company,American IPA,7.2,70,United States,Boulder,4,5/1/15 20:53
+Ben,Hopluia,Spilker Ales,Belgian Pale Ale,6.5,0,United States,Cortland,4,5/1/15 21:25
+Ben,Steel Reserve 211 High Gravity Lager,Steel Brewing Co,Malt Liquor ,8.1,0,United States,Irwindale,0.25,5/2/15 21:39
+Ben,Steel Reserve 211 High Gravity Lager,Steel Brewing Co,Malt Liquor ,8.1,0,United States,Irwindale,0.75,5/2/15 22:42
+Ben,Strawberry Harvest Lager,Abita Brewing Company,Fruit Beer,4.2,13,United States,Abita Springs,4.75,5/3/15 20:52
+Ben,Skinny Dip,New Belgium Brewing Company,Pale Lager,4.2,22,United States,Fort Collins,4.25,5/3/15 20:55
+Ben,Ace Pineapple Cider,Ace Cider (The California Cider Company),Cider,5,0,United States,Sebastopol,3.5,5/3/15 21:15
+Ben,Tree Shaker Imperial Peach IPA,Odell Brewing Co.,Imperial / Double IPA,8,48,United States,Fort Collins,3.5,5/3/15 21:16
+Ben,Carpe Brewem Imperial Mango IPA,Empyrean Brewing Co.,Imperial / Double IPA,7.8,90,United States,Lincoln,3.75,5/3/15 21:17
+Ben,Claymore Scotch Ale,Great Divide Brewing Company,Scotch Ale / Wee Heavy,7.7,0,United States,Denver,4.5,5/3/15 21:20
+Ben,Colette Farmhouse Ale,Great Divide Brewing Company,Saison / Farmhouse Ale,7.3,0,United States,Denver,4,5/4/15 17:14
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,5/4/15 17:49
+Ben,Tecate,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,5,5/5/15 13:02
+Ben,Tecate,CervecerÌ_a CuauhtÌ©moc Moctezuma S.A. de C.V.,North American Adjunct Lager,4.5,0,Mexico,Monterrey,5,5/5/15 13:04
+Ben,EOS Hefeweizen,Nebraska Brewing Company,Hefeweizen,5.2,13,United States,Papillion,3.5,5/5/15 19:33
+Ben,Summertime Rye,Nebraska Brewing Company,Rye Beer,4.8,0,United States,Papillion,3.25,5/5/15 20:43
+Ben,EOS Hefeweizen,Nebraska Brewing Company,Hefeweizen,5.2,13,United States,Papillion,3.5,5/5/15 21:02
+Ben,Double Simcoe IPA,Weyerbacher Brewing Company,Imperial / Double IPA,9,90,United States,Easton,4.25,5/5/15 21:32
+Ben,Deviant Dale's,Oskar Blues Brewery,American IPA,8,85,United States,Longmont,4.75,5/5/15 22:02
+Ben,Farmhouse Pale Ale (formerly Belgian Pale Ale),Zipline Brewing Co.,Belgian Pale Ale,7,0,United States,Lincoln,4,5/6/15 15:12
+Ben,Sonar,Spilker Ales,Belgian Pale Ale,5.7,0,United States,Cortland,3.75,5/6/15 18:23
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,5/6/15 19:24
+Ben,"Apricot au Poivre Saison (Reserve Series, Chardonnay Barrel Aged)",Nebraska Brewing Company,Saison / Farmhouse Ale,6.8,0,United States,Papillion,4,5/6/15 19:26
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,5/6/15 21:11
+Ben,Ettaler Curator Dunkler Doppelbock,Klosterbrauerei Ettal,Doppelbock ,9,0,Germany,Ettal,3.75,5/6/15 21:56
+Ben,Ettaler Curator Dunkler Doppelbock,Klosterbrauerei Ettal,Doppelbock ,9,0,Germany,Ettal,3.75,5/6/15 23:49
+Ben,Strawberry Harvest Lager,Abita Brewing Company,Fruit Beer,4.2,13,United States,Abita Springs,4.75,5/7/15 18:10
+Ben,Skinny Dip,New Belgium Brewing Company,Pale Lager,4.2,22,United States,Fort Collins,4.25,5/7/15 18:34
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,2.5,5/8/15 16:09
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,2.5,5/8/15 16:10
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,5/8/15 16:11
+Ben,Bud Light,Anheuser-Busch,American Light Lager,4.2,27,United States,St. Louis,1.5,5/8/15 16:57
+Ben,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,1,5/8/15 19:42
+Ben,Colorado Native Amber Lager,AC Golden Brewing Co.,American Amber / Red Lager,5.5,38,United States,Golden,3.5,5/8/15 21:22
+Ben,Unfiltered Wheat Beer,Boulevard Brewing Co.,American Pale Wheat Ale,4.4,14,United States,Kansas City,3.5,5/9/15 22:07
+Ben,Blackstone Bitter,Scriptown Brewing Company,English Bitter,0,0,United States,Omaha,3.75,5/9/15 23:06
+Ben,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,4,5/11/15 17:59
+Ben,Chocolate Pistachio Milk Porter,Infusion Brewing Company,Porter,5.8,33,United States,Benson,3.5,5/11/15 18:35
+Ben,Armory XPA,Deschutes Brewery,American IPA,5.9,58,United States,Bend,4,5/11/15 19:22
+Ben,5:00 Afternoon Ale,Renegade Brewing Company,Blonde Ale,5.5,25,United States,Denver,3.75,5/12/15 16:19
+Ben,Cardinal Pale Ale,Nebraska Brewing Company,American Pale Ale,6,42,United States,Papillion,4,5/12/15 20:23
+Ben,Cardinal Pale Ale,Nebraska Brewing Company,American Pale Ale,6,42,United States,Papillion,4,5/12/15 20:59
+Ben,Fat Tire,New Belgium Brewing Company,American Amber / Red Ale,5.2,22,United States,Fort Collins,3.5,5/13/15 12:45
+Ben,Snapshot,New Belgium Brewing Company,American Pale Wheat Ale,5,13,United States,Fort Collins,3.5,5/13/15 16:40
+Ben,Cider,Brickway Brewery & Distillery,Cider,6,0,United States,Omaha,3.5,5/13/15 17:52
+Ben,Oatmeal Cream Stout,Brickway Brewery & Distillery,Milk / Sweet Stout,5.2,0,United States,Omaha,3.25,5/13/15 18:42
+Ben,Mojo India Pale Ale (IPA),Boulder Beer Company,American IPA,7.2,70,United States,Boulder,4,5/14/15 18:38
+Ben,IPA,Lagunitas Brewing Company,American IPA,6.2,46,United States,Petaluma,3.75,5/14/15 19:04
+Ben,Crimson And Clover,Benson Brewery,Irish Red Ale,4.5,21,United States,Omaha,3.5,5/15/15 15:20
+Ben,Doppelbock,Brickway Brewery & Distillery,Doppelbock ,0,0,United States,Omaha,3.25,5/15/15 18:30
+Ben,Copper Alt,Zipline Brewing Co.,Altbier,5.2,0,United States,Lincoln,3.5,5/15/15 19:24
+Ben,Copper Alt,Zipline Brewing Co.,Altbier,5.2,0,United States,Lincoln,3.5,5/15/15 20:30
+Ben,Skinny Dip,New Belgium Brewing Company,Pale Lager,4.2,22,United States,Fort Collins,4.25,5/15/15 22:41
+Ben,La Folie (Lips of Faith),New Belgium Brewing Company,Flanders Oud Bruin,7,18,United States,Fort Collins,3.5,5/15/15 23:29
+Ben,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,4.25,5/16/15 19:02
+Ben,Buffalo Sweat Oatmeal Cream Stout,Tallgrass Brewing Company,Oatmeal Stout,5,20,United States,Manhattan,4.25,5/16/15 19:03
+Ben,Moo Joos,Brau Brothers Brewing Company,Milk / Sweet Stout,4.7,25,United States,Marshall,4,5/16/15 21:55
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,5/17/15 14:08
+Ben,Stella Artois,Stella Artois,Euro Lager,5.2,24,Belgium,3000 Leuven,3,5/18/15 8:28
+Ben,Colorado Native Amber Lager,AC Golden Brewing Co.,American Amber / Red Lager,5.5,38,United States,Golden,4,5/18/15 22:10
+Ben,MULA Choco-Mole Stout,Scriptown Brewing Company,Stout,0,0,United States,Omaha,4.25,5/19/15 18:51
+Ben,Blue Star,North Coast Brewing Company,American Pale Wheat Ale,4.5,17,United States,Fort Bragg,3.75,5/19/15 21:44
+Ben,Spotted Cow,New Glarus Brewing Company,Saison / Farmhouse Ale,5.1,0,United States,New Glarus,3.75,5/21/15 17:44
+Ben,Dale's Pale Ale,Oskar Blues Brewery,American Pale Ale,6.5,65,United States,Longmont,4.5,5/22/15 12:40
+Ben,Agave Wheat,Breckenridge Brewery,American Pale Wheat Ale,4.2,9,United States,Denver,3.5,5/22/15 17:17
+Ben,MULA Choco-Mole Stout,Scriptown Brewing Company,Stout,0,0,United States,Omaha,4.25,5/22/15 17:49
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,5,5/23/15 23:34
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,3.5,5/24/15 1:11
+Ben,Old Chub,Oskar Blues Brewery,Scotch Ale / Wee Heavy,8,0,United States,Longmont,4.5,5/26/15 17:41
+Ben,Shiner Ruby Redbird,Spoetzl Brewery,Fruit Beer,4.01,0,United States,Shiner,2,5/26/15 20:15
+Ben,All Day IPA,Founders Brewing Co.,Session IPA,4.7,42,United States,Grand Rapids,3.5,5/26/15 20:17
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,2,5/26/15 20:49
+Ben,Amber,Alaskan Brewing Co.,Altbier,5.3,0,United States,Juneau,3.75,5/26/15 21:11
+Ben,Hiatus,Renegade Brewing Company,Oatmeal Stout,6.5,40,United States,Denver,3.75,5/27/15 16:01
+Ben,Easy Street Wheat,Odell Brewing Co.,American Pale Wheat Ale,4.6,0,United States,Fort Collins,4,5/27/15 19:34
+Ben,Agave Wheat,Breckenridge Brewery,American Pale Wheat Ale,4.2,9,United States,Denver,3.5,5/28/15 17:55
+Ben,Penny Whistle,Backpocket Brewing,Hefeweizen,5.5,15,United States,Coralville,3,5/28/15 21:12
+Ben,Barleywine Style Ale 2013,Schlafly - The Saint Louis Brewery,English Barleywine,10.2,40,United States,Saint Louis,5,5/28/15 21:14
+Ben,Sofie,Goose Island Beer Co.,Saison / Farmhouse Ale,6.5,25,United States,Chicago,4.5,5/28/15 22:14
+Ben,Drop Dead Blonde,Stevens Point Brewery,American Blonde Ale,3.5,0,United States,Stevens Point,2.25,5/29/15 22:18
+Ben,Keg Stand,Infusion Brewing Company,American Pale Ale,5.6,45,United States,Benson,3.75,5/30/15 15:28
+Ben,South Pacific Pineapple IPA,Infusion Brewing Company,American IPA,7,100,United States,Benson,3.75,5/30/15 15:30
+Ben,IPA,Nebraska Brewing Company,American IPA,6.9,72,United States,Papillion,3.25,5/30/15 15:32
+Ben,Wicked Snout,Blue Blood Brewing Company,Saison / Farmhouse Ale,6.4,30,United States,Lincoln,4,5/30/15 15:36
+Ben,Velvet Rooster,Tallgrass Brewing Company,Belgian Tripel,8.5,40,United States,Manhattan,4.5,5/30/15 15:41
+Ben,Organic Apricot,Samuel Smith Old Brewery,Fruit Beer,5.2,0,England,Tadcaster,4,5/30/15 16:17
+Ben,Summer Honey Ale,Big Sky Brewing Company,American Pale Ale,4.7,0,United States,Missoula,4.25,5/30/15 16:33
+Ben,Trooper,Robinsons Brewing Company ,English Bitter,4.7,35,England,Stockport,3.75,5/30/15 16:33
+Ben,New Crustacean Barleywineish Imperial IPA Sorta,Rogue Ales,American Barleywine,11.6,88,United States,Newport,4,5/30/15 16:43
+Ben,Ghost Face Killah,Twisted Pine Brewing Company,Chili Beer,5,10,United States,Boulder,0.25,5/30/15 16:47
+Ben,DayTime Fractional IPA,Lagunitas Brewing Company,Session IPA,4.65,54,United States,Petaluma,3.5,5/30/15 17:01
+Ben,Let There Be Hops:  Lemon Drop IPA,Vis Major Brewing,American IPA,7.4,70,United States,Omaha,4.5,5/30/15 17:19
+Ben,Righteous Raspberry Saison,Vis Major Brewing,Saison / Farmhouse Ale,8.4,25,United States,Omaha,4.75,5/30/15 17:19
+Ben,9th Plague,Vis Major Brewing,American IPA,0,0,United States,Omaha,3.75,5/30/15 17:20
+Ben,Peach County,Ciderboys,Cider,5,0,United States,Stevens Point,4.25,5/30/15 17:31
+Ben,Herd Law Honey Wheat,Kinkaider Brewing Company,American Pale Wheat Ale,4.8,0,United States,Broken Bow,3.75,5/30/15 17:43
+Ben,Landshark Lager,Margaritaville Brewing Company,North American Adjunct Lager,4.7,0,United States,St. Louis,3.75,6/1/15 19:11
+Ben,Landshark Lager,Margaritaville Brewing Company,North American Adjunct Lager,4.7,0,United States,St. Louis,3.75,6/1/15 19:45
+Ben,Deep Roots Chocolate Porter,Wiley Roots Brewing Company,Porter,7,21,United States,Greeley,3.75,6/5/15 18:51
+Ben,Apumpalyptica Ale,Wiley Roots Brewing Company,Pumpkin / Yam Beer,9.2,37,United States,Greeley,4,6/5/15 19:32
+Ben,William Scottish Wee Heavy,Wiley Roots Brewing Company,Scotch Ale / Wee Heavy,8.1,0,United States,Greeley,4,6/5/15 20:21
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,3.25,6/6/15 21:56
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,3.25,6/6/15 21:56
+Ben,Coors Light,Coors Brewing Company,American Light Lager,4.2,10,United States,Golden,3.25,6/6/15 21:56
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,6/8/15 17:07
+Ben,Saranac Legacy IPA,The Matt Brewing Company (Saranac),American IPA,6.5,60,United States,Utica,3.5,6/8/15 20:37
+Ben,Lucky Beer (Lucky Buddha),Hangzhou Quiandaohu Beer Co. (Cheerday Brewery),American Light Lager,4.8,0,China / People's Republic of China,Hangzhou,3,6/9/15 12:40
+Ben,Country White Ale,Zipline Brewing Co.,Saison / Farmhouse Ale,4.6,0,United States,Lincoln,3.5,6/9/15 19:37
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,6/9/15 20:44
+Ben,Slow Ride,New Belgium Brewing Company,Session IPA,4.5,40,United States,Fort Collins,3.5,6/9/15 21:20
+Ben,Slow Ride,New Belgium Brewing Company,Session IPA,4.5,40,United States,Fort Collins,3.5,6/9/15 22:31
+Ben,DBA (Double Barrel Ale),Firestone Walker Brewing Company,English Pale Ale,5,30,United States,Paso Robles,3.5,6/11/15 22:06
+Ben,Steel Reserve 211 High Gravity Lager,Steel Brewing Co,Malt Liquor ,8.1,0,United States,Irwindale,0.75,6/12/15 14:44
+Ben,805 Blonde,Firestone Walker Brewing Company,Blonde Ale,4.7,20,United States,Paso Robles,3.25,6/12/15 18:24
+Ben,Pliny the Elder,Russian River Brewing Company,Imperial / Double IPA,8,100,United States,Santa Rosa,4,6/12/15 21:24
+Ben,Anchor Summer Wheat,Anchor Brewing Company,American Pale Wheat Ale,4.5,0,United States,San Francisco,2,6/17/15 14:10
+Ben,Wind Swept,Fargo Brewing Company,Witbier,5.2,14,United States,Fargo,3,6/17/15 14:29
+Ben,Miller Lite,Miller Brewing Company,American Light Lager,4.17,10,United States,Milwaukee,2,6/17/15 20:31
+Ben,Weihenstephaner Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,Hefeweizen,5.4,14,Germany,Freising,4,6/18/15 20:15
+Ben,Splish Splash,Infusion Brewing Company,Fruit Beer,5.4,20,United States,Benson,3.75,6/18/15 20:16
+Ben,Oktoberfest MÌ_rzen (USA Only),Paulaner Gruppe,Oktoberfest/Festbier/MÌ_rzen,5.8,2,Germany,MÌ_nchen,4.5,6/18/15 20:17
+Ben,Curious Traveler Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,7,United States,Burlington,3.75,6/20/15 17:35
+Ben,Curious Traveler Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,7,United States,Burlington,3.75,6/20/15 18:10
+Ben,Curious Traveler Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,7,United States,Burlington,3.75,6/20/15 22:58
+Ben,Curious Traveler Shandy,Traveler Beer Co.,American Pale Wheat Ale,4.4,7,United States,Burlington,3.75,6/20/15 22:59
+Ben,Full Circle,New Holland Brewing Company,KÌ_lsch,4.9,0,United States,Holland,2.25,6/23/15 21:41
+Ben,Copper Alt,Zipline Brewing Co.,Altbier,5.2,0,United States,Lincoln,3.5,6/23/15 22:14
+Ben,Undercover Investigation Shut-Down Ale,Lagunitas Brewing Company,American Strong Ale,9.3,66,United States,Petaluma,4.75,6/26/15 15:32
+Ben,Brekle's Brown,Anchor Brewing Company,American Brown Ale,6,0,United States,San Francisco,3.75,6/26/15 16:01
+Ben,90 Shilling,Odell Brewing Co.,Scotch Ale / Wee Heavy,5.3,27,United States,Fort Collins,3.75,6/27/15 20:15
+Ben,Pabst Blue Ribbon,Pabst Brewing Company,North American Adjunct Lager,5,0,United States,Woodridge,1,6/27/15 20:15
+Ben,90 Shilling,Odell Brewing Co.,Scotch Ale / Wee Heavy,5.3,27,United States,Fort Collins,3.75,6/27/15 20:16
+Ben,Miller Lite,Miller Brewing Company,American Light Lager,4.17,10,United States,Milwaukee,2,6/27/15 20:16
+Ben,Summer Shandy,Jacob Leinenkugel Brewing Company,Radler,4.2,14,United States,Chippewa Falls,2.75,6/27/15 21:46
+Ben,Titan IPA,Great Divide Brewing Company,American IPA,7.1,65,United States,Denver,5,6/29/15 21:02
+Ben,Cougar Slayer,Jagged Mountain Craft Brewery,Saison / Farmhouse Ale,6.8,20,United States,Denver,4,6/30/15 17:43
+Ben,Sawatch IPA,Jagged Mountain Craft Brewery,American IPA,6.7,70,United States,Denver,4,6/30/15 17:44
+Ben,Mountain Town,Jagged Mountain Craft Brewery,English Brown Ale,4.3,25,United States,Denver,3.75,6/30/15 17:45
+Ben,Thunder Thighs,Jagged Mountain Craft Brewery,Belgian Quad,12.8,30,United States,Denver,3.75,6/30/15 17:47
+Ben,Good Juju,Left Hand Brewing Company,Herbed/Spiced Beer,4.5,20,United States,Longmont,3.75,6/30/15 18:58
+Ben,Death By Coconut,Oskar Blues Brewery,Porter,6.5,45,United States,Longmont,4,7/2/15 11:59
+Ben,Myrcenario,Odell Brewing Co.,Imperial / Double IPA,10,0,United States,Fort Collins,4.75,7/2/15 12:00
+Ben,USS Enterprise IPA,Dry Dock Brewing Co.,English IPA,6.1,0,United States,Aurora,3.75,7/2/15 12:01
+Ben,Escape To Colorado IPA,"Epic Brewing Co. (Utah, Colorado)",American IPA,6.2,65,United States,Salt Lake City,3.75,7/2/15 12:03
+Ben,Imperial IPA,Upslope Brewing Company,Imperial / Double IPA,10,90,United States,Boulder,3.75,7/2/15 12:30
+Ben,Craft Lager,Upslope Brewing Company,Pale Lager,4.8,15,United States,Boulder,3.5,7/3/15 13:46
+Ben,Milk Stout Nitro,Left Hand Brewing Company,Milk / Sweet Stout,6,25,United States,Longmont,4.5,7/3/15 21:23
+Ben,St. Lupulin,Odell Brewing Co.,American Pale Ale,6.5,46,United States,Fort Collins,3.75,7/5/15 18:15
+Ben,8 Second KÌ_lsch,Elevation Beer Company,KÌ_lsch,4.2,14,United States,Poncha Springs,4,7/5/15 20:13
+Ben,Koffee Kream,Comrade Brewing Co,Milk / Sweet Stout,4.8,0,United States,Denver,4.25,7/5/15 21:29
+Ben,Pinner Throwback IPA,Oskar Blues Brewery,Session IPA,4.9,35,United States,Longmont,4.25,7/5/15 21:42
+Ben,KÌ_lsch,Zipline Brewing Co.,KÌ_lsch,5.4,0,United States,Lincoln,4,7/7/15 15:37
+Ben,Ginger Peach Saison,Tallgrass Brewing Company,Saison / Farmhouse Ale,4.8,15,United States,Manhattan,3.75,7/7/15 20:52
+Ben,Ginger Peach Saison,Tallgrass Brewing Company,Saison / Farmhouse Ale,4.8,15,United States,Manhattan,3.75,7/7/15 21:37
+Ben,Peach Wheat,Thunderhead Brewing Company,American Pale Wheat Ale,5,12,United States,Kearney,3,7/9/15 18:12
+Ben,Peach Wheat,Thunderhead Brewing Company,American Pale Wheat Ale,5,12,United States,Kearney,3,7/9/15 18:12
+Ben,Moose Drool Brown Ale,Big Sky Brewing Company,American Brown Ale,5.1,0,United States,Missoula,4,7/9/15 19:01
+Ben,Citra Session IPA,Green Flash Brewing Co.,Session IPA,4.5,45,United States,San Diego,2.75,7/9/15 20:12
+Ben,Pub Ale,Tallgrass Brewing Company,American Brown Ale,4.4,0,United States,Manhattan,3.75,7/10/15 15:26
+Ben,Essens Belgian Wit,Upstream Brewing Company ,Witbier,4.6,15,United States,Omaha,3,7/10/15 16:11
+Ben,Equinox,Lagunitas Brewing Company,American IPA,8,50,United States,Petaluma,3.75,7/10/15 21:01
+Ben,Chocolate Ale,Boulevard Brewing Co.,Herbed/Spiced Beer,9.1,24,United States,Kansas City,4.5,7/10/15 21:02
+Ben,Colorado Native Amber Lager,AC Golden Brewing Co.,American Amber / Red Lager,5.5,38,United States,Golden,3.75,7/10/15 21:03
